@@ -84,7 +84,6 @@ async def get_info(
                 f"https://www.nssctf.cn/api/problem/v2/{info_id}/",
                 headers={
                     "UserAgent": USER_AGENT,
-                    # "Cookie": os.environ["NSSCTF_COOKIE"],
                 },
             )
     except (httpx.HTTPError, EndOfStream) as exc:

@@ -25,6 +25,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     - name: Run scraper
+      env:
+        NSSCTF_USERNAME: ${{ secrets.NSSCTF_USERNAME }}
+        NSSCTF_PASSWORD: ${{ secrets.NSSCTF_PASSWORD }}
       run: | 
         python main.py
     - name: Copy infos
