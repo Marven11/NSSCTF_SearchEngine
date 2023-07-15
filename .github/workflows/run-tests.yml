@@ -3,7 +3,6 @@ name: Run scraper
 on:
   schedule:
      - cron: "7 20 */5 * *"
-  push:
 permissions:
   contents: write
 
@@ -30,7 +29,7 @@ jobs:
         python main.py
     - name: Copy infos
       run: | 
-        diff infos.json public/infos.json ||
+        diff infos.json public/infos.json >/dev/null ||
         cp infos.json public/ &&
         git config --local user.email "actions@github.com" &&
         git config --local user.name "GitHub Actions" &&
