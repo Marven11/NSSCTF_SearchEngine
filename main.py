@@ -191,7 +191,11 @@ async def main():
 
     # 刷新已经有了的ID
     target_id_digit = random.randint(0, 9)
-    coros = (get_info(i) for i in ids if i % 10 == target_id_digit)
+    coros = (
+        get_info(i, ignore_created=True, ignore_not_found=True)
+        for i in ids
+        if i % 10 == target_id_digit
+    )
     refreshed_infos: List[Info] = []
     refreshed_ids = set()
 
