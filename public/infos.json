@@ -257,10 +257,10 @@
       "SSRF",
       "反序列化"
     ],
-    "point": 205,
+    "point": 201,
     "likes": 1,
-    "level": 1.3,
-    "solved": 105,
+    "level": 1.2,
+    "solved": 107,
     "wa": 14
   },
   {
@@ -629,11 +629,11 @@
       "词频分析",
       "仿射密码"
     ],
-    "point": 106,
+    "point": 97,
     "likes": 0,
     "level": 0.5,
-    "solved": 201,
-    "wa": 555
+    "solved": 210,
+    "wa": 593
   },
   {
     "id": 51,
@@ -1276,8 +1276,8 @@
     "point": 1,
     "likes": 3,
     "level": 0.3,
-    "solved": 348,
-    "wa": 26
+    "solved": 354,
+    "wa": 28
   },
   {
     "id": 101,
@@ -1900,10 +1900,10 @@
       "字节反转攻击",
       "AES"
     ],
-    "point": 443,
+    "point": 439,
     "likes": 0,
-    "level": 4.0,
-    "solved": 14,
+    "level": 2.0,
+    "solved": 15,
     "wa": 2
   },
   {
@@ -3179,11 +3179,11 @@
       "逆向 ",
       "VM"
     ],
-    "point": 439,
+    "point": 431,
     "likes": 1,
     "level": 1.8,
-    "solved": 15,
-    "wa": 5
+    "solved": 17,
+    "wa": 7
   },
   {
     "id": 251,
@@ -3603,8 +3603,8 @@
     "point": 1,
     "likes": 0,
     "level": 0.5,
-    "solved": 369,
-    "wa": 396
+    "solved": 375,
+    "wa": 404
   },
   {
     "id": 281,
@@ -3732,11 +3732,11 @@
     "tags": [
       "日志分析"
     ],
-    "point": 49,
+    "point": 47,
     "likes": 0,
     "level": 0.4,
-    "solved": 258,
-    "wa": 440
+    "solved": 260,
+    "wa": 443
   },
   {
     "id": 291,
@@ -3873,11 +3873,11 @@
       "日志分析",
       "TLS流量"
     ],
-    "point": 267,
+    "point": 265,
     "likes": 0,
     "level": 1.0,
-    "solved": 74,
-    "wa": 69
+    "solved": 75,
+    "wa": 70
   },
   {
     "id": 301,
@@ -4974,8 +4974,8 @@
     ],
     "point": 1,
     "likes": 5,
-    "level": 0.3,
-    "solved": 446,
+    "level": 0.4,
+    "solved": 455,
     "wa": 21
   },
   {
@@ -5122,10 +5122,10 @@
       "MISC",
       "压缩包"
     ],
-    "point": 173,
+    "point": 172,
     "likes": 0,
     "level": 0.1,
-    "solved": 134,
+    "solved": 135,
     "wa": 23
   },
   {
@@ -5257,10 +5257,10 @@
       "安卓",
       "反编译"
     ],
-    "point": 159,
+    "point": 155,
     "likes": 1,
     "level": 0.7,
-    "solved": 148,
+    "solved": 152,
     "wa": 19
   },
   {
@@ -5393,9 +5393,9 @@
     ],
     "point": 1,
     "likes": 1,
-    "level": 0.4,
-    "solved": 938,
-    "wa": 160
+    "level": 0.3,
+    "solved": 962,
+    "wa": 162
   },
   {
     "id": 421,
@@ -5543,8 +5543,8 @@
     "point": 1,
     "likes": 0,
     "level": 0.2,
-    "solved": 666,
-    "wa": 513
+    "solved": 688,
+    "wa": 544
   },
   {
     "id": 431,
@@ -5684,15 +5684,15 @@
     "desc": "",
     "tags": [
       "反序列化",
-      "WEB",
       "PHP",
+      "WEB",
       "POP链"
     ],
     "point": 1,
     "likes": 15,
     "level": 0.8,
-    "solved": 858,
-    "wa": 183
+    "solved": 875,
+    "wa": 184
   },
   {
     "id": 441,
@@ -5834,8 +5834,8 @@
     "point": 1,
     "likes": 1,
     "level": 0.4,
-    "solved": 602,
-    "wa": 406
+    "solved": 614,
+    "wa": 411
   },
   {
     "id": 451,
@@ -5968,10 +5968,10 @@
       "JAVA",
       "MOBILE"
     ],
-    "point": 455,
+    "point": 451,
     "likes": 0,
-    "level": 1.2,
-    "solved": 11,
+    "level": 1.0,
+    "solved": 12,
     "wa": 12
   },
   {
@@ -6866,10 +6866,10 @@
       "Base家族",
       "Crypto"
     ],
-    "point": 330,
+    "point": 327,
     "likes": 0,
-    "level": 0.5,
-    "solved": 48,
+    "level": 0.7,
+    "solved": 49,
     "wa": 22
   },
   {
@@ -7241,10 +7241,10 @@
       "Crypto",
       "RSA"
     ],
-    "point": 145,
+    "point": 143,
     "likes": 0,
     "level": 0.1,
-    "solved": 162,
+    "solved": 164,
     "wa": 25
   },
   {
@@ -7374,11 +7374,11 @@
       "图片隐写",
       "MISC"
     ],
-    "point": 269,
+    "point": 267,
     "likes": 0,
     "level": 0.3,
-    "solved": 73,
-    "wa": 15
+    "solved": 74,
+    "wa": 16
   },
   {
     "id": 701,
@@ -9032,11 +9032,11 @@
     "tags": [
       "MOBILE"
     ],
-    "point": 423,
+    "point": 419,
     "likes": 0,
-    "level": 3.3,
-    "solved": 19,
-    "wa": 6
+    "level": 2.5,
+    "solved": 20,
+    "wa": 7
   },
   {
     "id": 841,
@@ -9149,15 +9149,15 @@
     "title": "[CISCN 2021华南]small",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "Coppersmith",
       "RSA",
-      "CopperSmith"
+      "CopperSmith",
+      "Coppersmith"
     ],
-    "point": 407,
+    "point": 403,
     "likes": 0,
-    "level": 0.0,
-    "solved": 23,
-    "wa": 7
+    "level": 1.0,
+    "solved": 24,
+    "wa": 9
   },
   {
     "id": 851,
@@ -9288,11 +9288,11 @@
       "素数分解",
       "RSA"
     ],
-    "point": 190,
+    "point": 188,
     "likes": 2,
     "level": 0.4,
-    "solved": 117,
-    "wa": 25
+    "solved": 119,
+    "wa": 26
   },
   {
     "id": 864,
@@ -9514,11 +9514,11 @@
       "逆向 ",
       " 花指令"
     ],
-    "point": 31,
+    "point": 21,
     "likes": 4,
-    "level": 0.8,
-    "solved": 276,
-    "wa": 242
+    "level": 0.7,
+    "solved": 286,
+    "wa": 248
   },
   {
     "id": 881,
@@ -9848,10 +9848,10 @@
       "Flask",
       "WEB"
     ],
-    "point": 161,
+    "point": 159,
     "likes": 0,
     "level": 0.8,
-    "solved": 146,
+    "solved": 148,
     "wa": 36
   },
   {
@@ -11446,10 +11446,10 @@
       "逆向",
       "签到"
     ],
-    "point": 273,
+    "point": 271,
     "likes": 0,
     "level": 0.4,
-    "solved": 71,
+    "solved": 72,
     "wa": 34
   },
   {
@@ -13781,12 +13781,14 @@
       "pearcmd",
       "文件上传",
       "WEB",
-      "PHP伪协议"
+      "PHP伪协议",
+      "其他",
+      "HTTP协议"
     ],
     "point": 1,
     "likes": 1,
-    "level": 0.5,
-    "solved": 436,
+    "level": 0.4,
+    "solved": 442,
     "wa": 37
   },
   {
@@ -14224,10 +14226,10 @@
       "LFI",
       "Nginx临时文件"
     ],
-    "point": 378,
+    "point": 372,
     "likes": 1,
     "level": 1.2,
-    "solved": 32,
+    "solved": 34,
     "wa": 1
   },
   {
@@ -15075,11 +15077,11 @@
       "pang",
       "二维码"
     ],
-    "point": 351,
+    "point": 348,
     "likes": 0,
     "level": 0.4,
-    "solved": 41,
-    "wa": 18
+    "solved": 42,
+    "wa": 21
   },
   {
     "id": 1391,
@@ -15373,10 +15375,10 @@
       "源码泄露",
       "RCE"
     ],
-    "point": 451,
+    "point": 439,
     "likes": 1,
     "level": 0.0,
-    "solved": 12,
+    "solved": 15,
     "wa": 1
   },
   {
@@ -16216,11 +16218,11 @@
       "C++",
       "Reverse"
     ],
-    "point": 176,
+    "point": 174,
     "likes": 4,
     "level": 0.6,
-    "solved": 131,
-    "wa": 204
+    "solved": 133,
+    "wa": 210
   },
   {
     "id": 1861,
@@ -16917,10 +16919,10 @@
       "RSA",
       "dp泄漏攻击"
     ],
-    "point": 285,
+    "point": 281,
     "likes": 0,
-    "level": 0.4,
-    "solved": 65,
+    "level": 0.3,
+    "solved": 67,
     "wa": 7
   },
   {
@@ -17782,11 +17784,11 @@
       "MISC",
       "进制转换"
     ],
-    "point": 79,
+    "point": 77,
     "likes": 1,
     "level": 0.2,
-    "solved": 228,
-    "wa": 73
+    "solved": 230,
+    "wa": 76
   },
   {
     "id": 2051,
@@ -18038,10 +18040,10 @@
       "低加密指数攻击",
       "RSA"
     ],
-    "point": 245,
+    "point": 243,
     "likes": 0,
     "level": 0.5,
-    "solved": 85,
+    "solved": 86,
     "wa": 1
   },
   {
@@ -18519,10 +18521,10 @@
     "tags": [
       "WEB"
     ],
-    "point": 407,
+    "point": 403,
     "likes": 1,
     "level": 0.0,
-    "solved": 23,
+    "solved": 24,
     "wa": 5
   },
   {
@@ -19485,10 +19487,10 @@
       "SQL注入",
       "联合查询"
     ],
-    "point": 378,
+    "point": 360,
     "likes": 0,
-    "level": 0.0,
-    "solved": 32,
+    "level": 0.6,
+    "solved": 38,
     "wa": 4
   },
   {
@@ -19759,10 +19761,10 @@
       "短标签",
       "RCE"
     ],
-    "point": 423,
+    "point": 411,
     "likes": 0,
     "level": 0.7,
-    "solved": 19,
+    "solved": 22,
     "wa": 0
   },
   {
@@ -20179,10 +20181,10 @@
       "AES",
       "ECB"
     ],
-    "point": 451,
+    "point": 443,
     "likes": 0,
     "level": 0.0,
-    "solved": 12,
+    "solved": 14,
     "wa": 12
   },
   {
@@ -20332,10 +20334,10 @@
       "shellcode",
       "PWN"
     ],
-    "point": 293,
+    "point": 291,
     "likes": 4,
-    "level": 1.6,
-    "solved": 61,
+    "level": 1.5,
+    "solved": 62,
     "wa": 2
   },
   {
@@ -21106,11 +21108,11 @@
       "图片隐写",
       "PNG宽高修复"
     ],
-    "point": 297,
+    "point": 295,
     "likes": 0,
-    "level": 1.2,
-    "solved": 59,
-    "wa": 21
+    "level": 1.1,
+    "solved": 60,
+    "wa": 22
   },
   {
     "id": 2411,
@@ -21266,10 +21268,10 @@
       "PHP",
       "取反构造"
     ],
-    "point": 153,
-    "likes": 1,
+    "point": 145,
+    "likes": 2,
     "level": 0.2,
-    "solved": 154,
+    "solved": 162,
     "wa": 25
   },
   {
@@ -21680,15 +21682,15 @@
     "title": "[蓝帽杯 2022 初赛]计算机取证_2",
     "desc": "现对一个windows计算机进行取证，请您对以下问题进行分析解答。\n制作该内存镜像的进程Pid号是多少？\n压缩包密码为93ce7ea39bdd7baa137f1e9b963b7ee5\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。\n得到的flag请使用NSSCTF{}形式提交",
     "tags": [
-      "电子取证",
       "内存取证",
+      "电子取证",
       "计算机取证"
     ],
-    "point": 213,
+    "point": 205,
     "likes": 0,
-    "level": 0.3,
-    "solved": 101,
-    "wa": 35
+    "level": 0.4,
+    "solved": 105,
+    "wa": 37
   },
   {
     "id": 2451,
@@ -21820,11 +21822,11 @@
       "内存取证",
       "进程分析"
     ],
-    "point": 261,
+    "point": 251,
     "likes": 0,
     "level": 0.4,
-    "solved": 77,
-    "wa": 79
+    "solved": 82,
+    "wa": 94
   },
   {
     "id": 2461,
@@ -23343,11 +23345,11 @@
       "MISC",
       "流量分析"
     ],
-    "point": 339,
+    "point": 327,
     "likes": 0,
-    "level": 0.6,
-    "solved": 45,
-    "wa": 4
+    "level": 0.4,
+    "solved": 49,
+    "wa": 9
   },
   {
     "id": 2591,
@@ -23486,10 +23488,10 @@
     "tags": [
       "PWN"
     ],
-    "point": 257,
+    "point": 255,
     "likes": 0,
     "level": 0.4,
-    "solved": 79,
+    "solved": 80,
     "wa": 5
   },
   {
@@ -23783,10 +23785,10 @@
       "宽高修改",
       "CBC碰撞"
     ],
-    "point": 423,
-    "likes": 1,
-    "level": 0.2,
-    "solved": 19,
+    "point": 411,
+    "likes": 0,
+    "level": 0.1,
+    "solved": 22,
     "wa": 25
   },
   {
@@ -23935,8 +23937,8 @@
     "point": 1,
     "likes": 1,
     "level": 0.3,
-    "solved": 555,
-    "wa": 232
+    "solved": 581,
+    "wa": 245
   },
   {
     "id": 2641,
@@ -24077,11 +24079,11 @@
       "语言逆向",
       "REVERSE"
     ],
-    "point": 196,
+    "point": 192,
     "likes": 0,
     "level": 0.1,
-    "solved": 111,
-    "wa": 23
+    "solved": 115,
+    "wa": 24
   },
   {
     "id": 2651,
@@ -24263,10 +24265,10 @@
       "slienteye",
       "音频隐写"
     ],
-    "point": 459,
+    "point": 455,
     "likes": 0,
     "level": 0.0,
-    "solved": 10,
+    "solved": 11,
     "wa": 1
   },
   {
@@ -24380,10 +24382,10 @@
       "CRYPTO",
       "单表替换"
     ],
-    "point": 447,
+    "point": 443,
     "likes": 0,
     "level": 0.0,
-    "solved": 13,
+    "solved": 14,
     "wa": 0
   },
   {
@@ -24713,9 +24715,9 @@
     ],
     "point": 1,
     "likes": 0,
-    "level": 0.4,
-    "solved": 358,
-    "wa": 47
+    "level": 0.3,
+    "solved": 376,
+    "wa": 48
   },
   {
     "id": 2901,
@@ -24858,10 +24860,10 @@
       "MISC",
       "chr()"
     ],
-    "point": 345,
+    "point": 327,
     "likes": 0,
-    "level": 1.5,
-    "solved": 43,
+    "level": 1.3,
+    "solved": 49,
     "wa": 3
   },
   {
@@ -25011,10 +25013,10 @@
       "base85",
       "Base家族"
     ],
-    "point": 255,
+    "point": 251,
     "likes": 0,
     "level": 0.4,
-    "solved": 80,
+    "solved": 82,
     "wa": 1
   },
   {
@@ -25157,10 +25159,10 @@
       "PWN",
       "rop"
     ],
-    "point": 194,
+    "point": 188,
     "likes": 0,
     "level": 0.5,
-    "solved": 113,
+    "solved": 119,
     "wa": 4
   },
   {
@@ -25356,11 +25358,11 @@
       "无字母RCE",
       "WEB"
     ],
-    "point": 227,
+    "point": 213,
     "likes": 0,
-    "level": 1.0,
-    "solved": 94,
-    "wa": 14
+    "level": 0.8,
+    "solved": 101,
+    "wa": 15
   },
   {
     "id": 2951,
@@ -25500,10 +25502,10 @@
       "PWN",
       "代码分析"
     ],
-    "point": 363,
+    "point": 360,
     "likes": 0,
     "level": 0.2,
-    "solved": 37,
+    "solved": 38,
     "wa": 1
   },
   {
@@ -25645,10 +25647,10 @@
       "MISC",
       "流量分析"
     ],
-    "point": 390,
+    "point": 381,
     "likes": 0,
-    "level": 0.5,
-    "solved": 28,
+    "level": 0.4,
+    "solved": 31,
     "wa": 7
   },
   {
@@ -25791,10 +25793,10 @@
       "零宽字符",
       "emoji-aes"
     ],
-    "point": 467,
+    "point": 459,
     "likes": 0,
     "level": 0.0,
-    "solved": 8,
+    "solved": 10,
     "wa": 0
   },
   {
@@ -25930,13 +25932,13 @@
     "title": "[HNCTF 2022 WEEK2]calc_jail_beginner_level4(JAIL)",
     "desc": "So cool that u finished the week1 challenge  \n\nNo dangerous password no chr try to hack me!!!!!!!\n\nAuthor:crazyman",
     "tags": [
-      "MISC",
-      "JAIL"
+      "JAIL",
+      "MISC"
     ],
-    "point": 435,
+    "point": 423,
     "likes": 0,
-    "level": 1.2,
-    "solved": 16,
+    "level": 1.1,
+    "solved": 19,
     "wa": 0
   },
   {
@@ -26374,10 +26376,10 @@
       "文件包含",
       "WEB"
     ],
-    "point": 375,
+    "point": 372,
     "likes": 0,
-    "level": 2.8,
-    "solved": 33,
+    "level": 2.4,
+    "solved": 34,
     "wa": 0
   },
   {
@@ -26514,10 +26516,10 @@
       "RE",
       "双进程"
     ],
-    "point": 354,
+    "point": 348,
     "likes": 0,
     "level": 0.6,
-    "solved": 40,
+    "solved": 42,
     "wa": 1
   },
   {
@@ -26710,10 +26712,10 @@
       "WEB",
       "弱类型比较"
     ],
-    "point": 393,
+    "point": 390,
     "likes": 0,
-    "level": 0.8,
-    "solved": 27,
+    "level": 1.2,
+    "solved": 28,
     "wa": 0
   },
   {
@@ -27241,11 +27243,11 @@
       "WEB",
       "无参数RCE"
     ],
-    "point": 15,
+    "point": 1,
     "likes": 6,
-    "level": 0.5,
-    "solved": 292,
-    "wa": 99
+    "level": 0.4,
+    "solved": 313,
+    "wa": 105
   },
   {
     "id": 3091,
@@ -27372,11 +27374,11 @@
       "WEB",
       "SQL堆叠注入"
     ],
-    "point": 369,
+    "point": 366,
     "likes": 0,
-    "level": 1.3,
-    "solved": 35,
-    "wa": 3
+    "level": 1.2,
+    "solved": 36,
+    "wa": 4
   },
   {
     "id": 3102,
@@ -27502,10 +27504,10 @@
       "CRYPTO",
       "math"
     ],
-    "point": 479,
+    "point": 475,
     "likes": 0,
     "level": 0.0,
-    "solved": 5,
+    "solved": 6,
     "wa": 0
   },
   {
@@ -29422,10 +29424,10 @@
       "dp泄露攻击",
       "低加密指数攻击"
     ],
-    "point": 366,
+    "point": 360,
     "likes": 0,
-    "level": 0.4,
-    "solved": 36,
+    "level": 0.3,
+    "solved": 38,
     "wa": 4
   },
   {
@@ -29556,10 +29558,10 @@
       "邻近素数",
       "XOR"
     ],
-    "point": 419,
+    "point": 411,
     "likes": 0,
-    "level": 1.1,
-    "solved": 20,
+    "level": 0.8,
+    "solved": 22,
     "wa": 1
   },
   {
@@ -29698,10 +29700,10 @@
       "MISC",
       "图片隐写"
     ],
-    "point": 403,
+    "point": 396,
     "likes": 0,
-    "level": 0.5,
-    "solved": 24,
+    "level": 0.3,
+    "solved": 26,
     "wa": 1
   },
   {
@@ -29843,11 +29845,11 @@
       "C",
       "异或加密"
     ],
-    "point": 387,
+    "point": 378,
     "likes": 0,
-    "level": 0.6,
-    "solved": 29,
-    "wa": 9
+    "level": 0.4,
+    "solved": 32,
+    "wa": 13
   },
   {
     "id": 3321,
@@ -29989,11 +29991,11 @@
       "REVERSE",
       "二进制"
     ],
-    "point": 318,
+    "point": 303,
     "likes": 0,
-    "level": 0.3,
-    "solved": 52,
-    "wa": 31
+    "level": 0.2,
+    "solved": 57,
+    "wa": 32
   },
   {
     "id": 3331,
@@ -30259,12 +30261,13 @@
       "SQL注入",
       "空格绕过",
       "关键字绕过",
-      "WEB"
+      "WEB",
+      "报错注入"
     ],
-    "point": 289,
+    "point": 283,
     "likes": 1,
-    "level": 0.6,
-    "solved": 63,
+    "level": 0.8,
+    "solved": 66,
     "wa": 6
   },
   {
@@ -30996,10 +30999,10 @@
       "ROP",
       "PLT改写"
     ],
-    "point": 479,
+    "point": 475,
     "likes": 0,
     "level": 0.0,
-    "solved": 5,
+    "solved": 6,
     "wa": 0
   },
   {
@@ -31143,10 +31146,10 @@
       "WEB",
       "Game"
     ],
-    "point": 198,
+    "point": 195,
     "likes": 1,
     "level": 0.3,
-    "solved": 109,
+    "solved": 112,
     "wa": 15
   },
   {
@@ -31582,11 +31585,11 @@
       "文件隐写",
       "音频隐写"
     ],
-    "point": 399,
+    "point": 396,
     "likes": 0,
     "level": 0.0,
-    "solved": 25,
-    "wa": 29
+    "solved": 26,
+    "wa": 30
   },
   {
     "id": 3441,
@@ -31856,11 +31859,11 @@
     "tags": [
       "MISC"
     ],
-    "point": 419,
+    "point": 396,
     "likes": 0,
     "level": 0.0,
-    "solved": 20,
-    "wa": 21
+    "solved": 26,
+    "wa": 22
   },
   {
     "id": 3471,
@@ -31989,10 +31992,10 @@
       "Base64",
       "REVERSE"
     ],
-    "point": 345,
+    "point": 342,
     "likes": 0,
     "level": 0.1,
-    "solved": 43,
+    "solved": 44,
     "wa": 23
   },
   {
@@ -32116,10 +32119,10 @@
       "栈溢出",
       "PWN"
     ],
-    "point": 354,
+    "point": 348,
     "likes": 0,
     "level": 0.5,
-    "solved": 40,
+    "solved": 42,
     "wa": 3
   },
   {
@@ -32354,10 +32357,10 @@
       "REVERSE",
       "Z3"
     ],
-    "point": 443,
+    "point": 439,
     "likes": 0,
-    "level": 2.2,
-    "solved": 14,
+    "level": 2.3,
+    "solved": 15,
     "wa": 8
   },
   {
@@ -33534,11 +33537,11 @@
       "lsb",
       "像素隐写"
     ],
-    "point": 223,
-    "likes": 0,
-    "level": 0.7,
-    "solved": 96,
-    "wa": 83
+    "point": 205,
+    "likes": 1,
+    "level": 0.6,
+    "solved": 105,
+    "wa": 91
   },
   {
     "id": 3681,
@@ -33638,14 +33641,15 @@
     "title": "[GDOUCTF 2023]easy_pyc",
     "desc": "flag以NSSCTF{}形式提交",
     "tags": [
+      "其他",
       "pyc",
       "rsa"
     ],
-    "point": 342,
+    "point": 327,
     "likes": 1,
-    "level": 0.2,
-    "solved": 44,
-    "wa": 13
+    "level": 0.3,
+    "solved": 49,
+    "wa": 15
   },
   {
     "id": 3692,
@@ -33932,10 +33936,10 @@
       "伪协议",
       "反序列化"
     ],
-    "point": 121,
+    "point": 115,
     "likes": 8,
-    "level": 1.4,
-    "solved": 186,
+    "level": 1.3,
+    "solved": 192,
     "wa": 18
   },
   {
@@ -34054,16 +34058,16 @@
     "title": "[HDCTF 2023]enc",
     "desc": "flag以NSSCTF{}形式提交",
     "tags": [
-      "Reverse",
       "SMC",
       "TEA",
-      "RC4"
+      "RC4",
+      "Reverse"
     ],
-    "point": 403,
+    "point": 360,
     "likes": 0,
-    "level": 0.9,
-    "solved": 24,
-    "wa": 3
+    "level": 0.6,
+    "solved": 38,
+    "wa": 14
   },
   {
     "id": 3791,
@@ -34168,14 +34172,14 @@
     "title": "请求方式",
     "desc": "你知道HTTP有几种请求方式吗？",
     "tags": [
-      "WEB",
-      "HTTP协议"
+      "HTTP协议",
+      "WEB"
     ],
-    "point": 439,
+    "point": 431,
     "likes": 0,
-    "level": 1.5,
-    "solved": 15,
-    "wa": 9
+    "level": 1.1,
+    "solved": 17,
+    "wa": 10
   },
   {
     "id": 3801,
@@ -35001,10 +35005,10 @@
     "tags": [
       "http"
     ],
-    "point": 188,
+    "point": 182,
     "likes": 0,
     "level": 0.7,
-    "solved": 119,
+    "solved": 125,
     "wa": 128
   },
   {
@@ -35124,11 +35128,11 @@
       "流量分析",
       "日志审计"
     ],
-    "point": 138,
+    "point": 129,
     "likes": 0,
     "level": 0.2,
-    "solved": 169,
-    "wa": 122
+    "solved": 178,
+    "wa": 136
   },
   {
     "id": 3881,
@@ -35648,41 +35652,11 @@
       "维吉尼亚",
       "凯撒"
     ],
-    "point": 241,
+    "point": 237,
     "likes": 0,
     "level": 0.4,
-    "solved": 87,
-    "wa": 47
-  },
-  {
-    "id": 3970,
-    "title": "[LitCTF 2023]Virginia",
-    "desc": "- 出题人：lingfeng\nflag以NSSCTF{}形式提交",
-    "tags": [
-      "凯撒密码",
-      "维吉尼亚",
-      "凯撒"
-    ],
-    "point": 241,
-    "likes": 0,
-    "level": 0.4,
-    "solved": 87,
-    "wa": 47
-  },
-  {
-    "id": 3970,
-    "title": "[LitCTF 2023]Virginia",
-    "desc": "- 出题人：lingfeng\nflag以NSSCTF{}形式提交",
-    "tags": [
-      "凯撒密码",
-      "维吉尼亚",
-      "凯撒"
-    ],
-    "point": 241,
-    "likes": 0,
-    "level": 0.4,
-    "solved": 87,
-    "wa": 47
+    "solved": 89,
+    "wa": 48
   },
   {
     "id": 3971,
@@ -38145,6 +38119,19 @@
     "likes": 1,
     "level": 5.0,
     "solved": 3,
+    "wa": 0
+  },
+  {
+    "id": 4166,
+    "title": "[CISCN 2023 华中]muney",
+    "desc": "ubuntu:18.04",
+    "tags": [
+      "PWN"
+    ],
+    "point": 500,
+    "likes": 0,
+    "level": 0.0,
+    "solved": 0,
     "wa": 0
   },
   {
