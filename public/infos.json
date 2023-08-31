@@ -35,11 +35,11 @@
       "伪造cookie",
       "py反序列化"
     ],
-    "point": 396,
+    "point": 342,
     "likes": 1,
-    "level": 4.5,
-    "solved": 26,
-    "wa": 5
+    "level": 1.2,
+    "solved": 44,
+    "wa": 8
   },
   {
     "id": 4,
@@ -175,11 +175,11 @@
       "SSTI",
       "靶场"
     ],
-    "point": 463,
+    "point": 435,
     "likes": 1,
     "level": 0.0,
-    "solved": 9,
-    "wa": 78
+    "solved": 16,
+    "wa": 129
   },
   {
     "id": 14,
@@ -305,10 +305,10 @@
       "反序列化",
       "代码审计"
     ],
-    "point": 435,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 16,
+    "point": 407,
+    "likes": 1,
+    "level": 2.1,
+    "solved": 23,
     "wa": 1
   },
   {
@@ -391,10 +391,10 @@
       "反序列化",
       "FFI"
     ],
-    "point": 375,
-    "likes": 1,
-    "level": 5.0,
-    "solved": 33,
+    "point": 351,
+    "likes": 2,
+    "level": 1.3,
+    "solved": 41,
     "wa": 1
   },
   {
@@ -686,13 +686,14 @@
     "desc": "",
     "tags": [
       "代码审计",
-      "SSRF"
+      "SSRF",
+      "Python"
     ],
-    "point": 471,
+    "point": 431,
     "likes": 0,
-    "level": 0.0,
-    "solved": 7,
-    "wa": 2
+    "level": 0.8,
+    "solved": 17,
+    "wa": 3
   },
   {
     "id": 54,
@@ -956,11 +957,11 @@
       "欧拉函数",
       "快速幂"
     ],
-    "point": 384,
-    "likes": 0,
-    "level": 3.8,
-    "solved": 30,
-    "wa": 2
+    "point": 360,
+    "likes": 1,
+    "level": 0.9,
+    "solved": 38,
+    "wa": 3
   },
   {
     "id": 74,
@@ -1073,11 +1074,11 @@
     "tags": [
       "逆向"
     ],
-    "point": 360,
+    "point": 300,
     "likes": 0,
-    "level": 1.0,
-    "solved": 38,
-    "wa": 3
+    "level": 0.2,
+    "solved": 58,
+    "wa": 4
   },
   {
     "id": 84,
@@ -1211,11 +1212,11 @@
     "tags": [
       "LFSR"
     ],
-    "point": 372,
-    "likes": 0,
-    "level": 4.5,
-    "solved": 34,
-    "wa": 67
+    "point": 321,
+    "likes": 1,
+    "level": 1.1,
+    "solved": 51,
+    "wa": 85
   },
   {
     "id": 94,
@@ -1708,12 +1709,13 @@
     "title": "[CISCN 2019华南]PWN3",
     "desc": "Ubuntu 18\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。",
     "tags": [
+      "SROP",
       "PWN"
     ],
-    "point": 396,
+    "point": 345,
     "likes": 0,
-    "level": 2.0,
-    "solved": 26,
+    "level": 0.6,
+    "solved": 43,
     "wa": 0
   },
   {
@@ -1959,13 +1961,14 @@
     "title": "[网鼎杯 2020青龙组]FileJava",
     "desc": "小明同学把最近开发的一个简易文件上传系统挂到了服务器上，但过了段时间收到了漏洞报警，你能帮他找到是哪里出了问题吗？\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。",
     "tags": [
+      "WEB-INF",
       "XXE"
     ],
-    "point": 451,
-    "likes": 1,
-    "level": 0.0,
-    "solved": 12,
-    "wa": 0
+    "point": 419,
+    "likes": 2,
+    "level": 0.6,
+    "solved": 20,
+    "wa": 1
   },
   {
     "id": 154,
@@ -2085,10 +2088,10 @@
     "tags": [
       "原型链污染"
     ],
-    "point": 459,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 10,
+    "point": 451,
+    "likes": 1,
+    "level": 2.3,
+    "solved": 12,
     "wa": 4
   },
   {
@@ -2185,10 +2188,10 @@
       "代码审计",
       "SQL注入"
     ],
-    "point": 483,
+    "point": 479,
     "likes": 0,
     "level": 0.0,
-    "solved": 4,
+    "solved": 5,
     "wa": 6
   },
   {
@@ -2468,11 +2471,11 @@
       "PHP函数调用",
       "字符串"
     ],
-    "point": 384,
+    "point": 360,
     "likes": 0,
-    "level": 0.0,
-    "solved": 30,
-    "wa": 6
+    "level": 0.2,
+    "solved": 38,
+    "wa": 7
   },
   {
     "id": 194,
@@ -2606,10 +2609,10 @@
     "tags": [
       "Crypto"
     ],
-    "point": 475,
+    "point": 463,
     "likes": 0,
-    "level": 0.0,
-    "solved": 6,
+    "level": 0.8,
+    "solved": 9,
     "wa": 0
   },
   {
@@ -2735,13 +2738,15 @@
     "title": "[UTCTF 2020]Zero",
     "desc": "This file seems to be too large given how much text is contains, but I can find zero evidence of the flag. Maybe you'll have better luck than me?\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "零宽隐写",
+      "文档隐写",
       "隐写"
     ],
-    "point": 185,
-    "likes": 1,
-    "level": 1.0,
-    "solved": 122,
-    "wa": 21
+    "point": 113,
+    "likes": 2,
+    "level": 0.1,
+    "solved": 194,
+    "wa": 38
   },
   {
     "id": 214,
@@ -2965,11 +2970,11 @@
       "windows",
       "数学"
     ],
-    "point": 495,
+    "point": 491,
     "likes": 0,
     "level": 0.0,
-    "solved": 1,
-    "wa": 1
+    "solved": 2,
+    "wa": 2
   },
   {
     "id": 234,
@@ -3100,14 +3105,15 @@
     "title": "[羊城杯 2021]Baby_Forenisc",
     "desc": "简单的取证？\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "内存取证",
       "MISC",
       "取证"
     ],
-    "point": 198,
-    "likes": 1,
-    "level": 3.2,
-    "solved": 109,
-    "wa": 51
+    "point": 158,
+    "likes": 3,
+    "level": 1.0,
+    "solved": 149,
+    "wa": 58
   },
   {
     "id": 244,
@@ -3241,14 +3247,16 @@
     "title": "[GWCTF 2019]xxor",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "TEA",
+      "Z3",
       "逆向 ",
       "tea"
     ],
-    "point": 369,
+    "point": 287,
     "likes": 0,
-    "level": 3.5,
-    "solved": 35,
-    "wa": 27
+    "level": 0.3,
+    "solved": 64,
+    "wa": 39
   },
   {
     "id": 254,
@@ -3389,11 +3397,11 @@
       "Rsa",
       "CRT"
     ],
-    "point": 459,
+    "point": 443,
     "likes": 0,
     "level": 0.0,
-    "solved": 10,
-    "wa": 0
+    "solved": 14,
+    "wa": 2
   },
   {
     "id": 264,
@@ -3529,13 +3537,14 @@
     "title": "[陇剑杯 2021]jwt（问2）",
     "desc": "昨天，单位流量系统捕获了黑客攻击流量，请您分析流量后进行回答：\n黑客绕过验证使用的jwt中，id和username是______。（中间使用#号隔开，例如1#admin）。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "流量分析"
+      "流量分析",
+      "Webshell流量"
     ],
     "point": 1,
-    "likes": 0,
-    "level": 2.8,
-    "solved": 399,
-    "wa": 867
+    "likes": 1,
+    "level": 2.0,
+    "solved": 715,
+    "wa": 1519
   },
   {
     "id": 274,
@@ -3663,13 +3672,14 @@
     "title": "[陇剑杯 2021]webshell（问6）",
     "desc": "单位网站被黑客挂马，请您从流量中分析出webshell，进行回答：\n黑客代理工具的回连服务端IP是_____________。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "流量分析"
+      "流量分析",
+      "ASCII"
     ],
-    "point": 111,
+    "point": 1,
     "likes": 0,
-    "level": 4.4,
-    "solved": 196,
-    "wa": 74
+    "level": 2.5,
+    "solved": 370,
+    "wa": 154
   },
   {
     "id": 284,
@@ -3799,13 +3809,14 @@
     "title": "[陇剑杯 2021]SQL注入（问1）",
     "desc": "某应用程序被攻击，请分析日志后作答：\n黑客在注入过程中采用的注入手法叫_____________。（格式为4个汉字，例如“拼搏努力”）。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "流量分析"
+      "流量分析",
+      "日志审计"
     ],
-    "point": 90,
+    "point": 1,
     "likes": 0,
-    "level": 2.1,
-    "solved": 217,
-    "wa": 231
+    "level": 2.0,
+    "solved": 428,
+    "wa": 432
   },
   {
     "id": 294,
@@ -3948,11 +3959,11 @@
       "日志分析",
       "TLS流量"
     ],
-    "point": 303,
+    "point": 227,
     "likes": 0,
-    "level": 4.2,
-    "solved": 57,
-    "wa": 58
+    "level": 0.8,
+    "solved": 94,
+    "wa": 88
   },
   {
     "id": 304,
@@ -4084,11 +4095,11 @@
       "ECC",
       "Crypto"
     ],
-    "point": 372,
+    "point": 327,
     "likes": 0,
-    "level": 0.0,
-    "solved": 34,
-    "wa": 13
+    "level": 0.9,
+    "solved": 49,
+    "wa": 21
   },
   {
     "id": 314,
@@ -4351,11 +4362,11 @@
       "正则绕过",
       "命令执行"
     ],
-    "point": 372,
-    "likes": 10,
-    "level": 2.5,
-    "solved": 34,
-    "wa": 7
+    "point": 318,
+    "likes": 11,
+    "level": 0.7,
+    "solved": 52,
+    "wa": 8
   },
   {
     "id": 334,
@@ -4631,12 +4642,13 @@
     "title": "[天翼杯 2021]rrrgggbbb",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "LSB"
+      "LSB",
+      "脚本编写"
     ],
-    "point": 415,
-    "likes": 0,
-    "level": 4.0,
-    "solved": 21,
+    "point": 403,
+    "likes": 1,
+    "level": 2.0,
+    "solved": 24,
     "wa": 5
   },
   {
@@ -4903,14 +4915,17 @@
     "title": "[SWPUCTF 2021 新生赛]caidao",
     "desc": "",
     "tags": [
-      "WEB",
-      "RCE"
+      "RCE",
+      "信息收集",
+      "目录扫描",
+      "Linux命令",
+      "WEB"
     ],
     "point": 1,
-    "likes": 1,
-    "level": 1.0,
-    "solved": 1570,
-    "wa": 737
+    "likes": 2,
+    "level": 0.4,
+    "solved": 2175,
+    "wa": 1045
   },
   {
     "id": 384,
@@ -5222,13 +5237,17 @@
     "title": "[SWPUCTF 2021 新生赛]简简单单的逻辑",
     "desc": "得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "Python",
+      "XOR",
+      "逆向技术",
+      "算法分析",
       "逆向"
     ],
     "point": 1,
     "likes": 0,
-    "level": 1.4,
-    "solved": 447,
-    "wa": 419
+    "level": 1.9,
+    "solved": 659,
+    "wa": 550
   },
   {
     "id": 404,
@@ -5367,15 +5386,15 @@
     "title": "[SWPUCTF 2021 新生赛]crypto2",
     "desc": "得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "Crypto",
+      "共模攻击",
       "RSA",
-      "共模攻击"
+      "Crypto"
     ],
-    "point": 19,
+    "point": 1,
     "likes": 0,
-    "level": 1.0,
-    "solved": 288,
-    "wa": 24
+    "level": 1.4,
+    "solved": 443,
+    "wa": 49
   },
   {
     "id": 414,
@@ -5503,15 +5522,19 @@
     "title": "[SWPUCTF 2021 新生赛]easyupload2.0",
     "desc": "",
     "tags": [
-      "WEB",
+      "文件头绕过",
+      "文件上传",
+      "信息收集",
+      "双写后缀",
+      "Linux命令",
       "PHP",
-      "文件上传"
+      "MIME绕过"
     ],
     "point": 1,
     "likes": 1,
     "level": 1.8,
-    "solved": 1047,
-    "wa": 218
+    "solved": 1590,
+    "wa": 310
   },
   {
     "id": 424,
@@ -5670,14 +5693,14 @@
     "title": "[SWPUCTF 2021 新生赛]traditional",
     "desc": "得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "Crypto",
-      "古典密码"
+      "古典密码",
+      "Crypto"
     ],
     "point": 1,
     "likes": 1,
-    "level": 1.2,
-    "solved": 342,
-    "wa": 102
+    "level": 2.1,
+    "solved": 495,
+    "wa": 193
   },
   {
     "id": 434,
@@ -5830,10 +5853,10 @@
       "orange",
       "fmt"
     ],
-    "point": 459,
+    "point": 451,
     "likes": 0,
-    "level": 2.0,
-    "solved": 10,
+    "level": 1.3,
+    "solved": 12,
     "wa": 0
   },
   {
@@ -5973,13 +5996,15 @@
     "title": "[鹤城杯 2021]easy_crypto",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "其他",
+      "古典密码",
       "Crypto"
     ],
     "point": 1,
-    "likes": 0,
-    "level": 1.6,
-    "solved": 937,
-    "wa": 1123
+    "likes": 1,
+    "level": 1.8,
+    "solved": 1368,
+    "wa": 1445
   },
   {
     "id": 454,
@@ -6110,14 +6135,17 @@
     "title": "[鹤城杯 2021]EasyP",
     "desc": "",
     "tags": [
-      "WEB",
-      "PHP"
+      "PHP",
+      "正则绕过",
+      "文件包含",
+      "RCE",
+      "WEB"
     ],
     "point": 1,
-    "likes": 13,
-    "level": 3.1,
-    "solved": 615,
-    "wa": 54
+    "likes": 18,
+    "level": 2.0,
+    "solved": 887,
+    "wa": 64
   },
   {
     "id": 464,
@@ -6378,10 +6406,10 @@
     "tags": [
       "Crypto"
     ],
-    "point": 471,
+    "point": 467,
     "likes": 1,
-    "level": 0.0,
-    "solved": 7,
+    "level": 2.5,
+    "solved": 8,
     "wa": 0
   },
   {
@@ -6625,12 +6653,13 @@
     "title": "[领航杯江苏省赛 2021]REVERSE GetFlag",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
-      "REVERSE"
+      "REVERSE",
+      "安卓逆向"
     ],
-    "point": 487,
+    "point": 479,
     "likes": 0,
-    "level": 0.0,
-    "solved": 3,
+    "level": 1.0,
+    "solved": 5,
     "wa": 1
   },
   {
@@ -6758,11 +6787,11 @@
     "tags": [
       "MISC"
     ],
-    "point": 479,
-    "likes": 0,
+    "point": 471,
+    "likes": 1,
     "level": 0.0,
-    "solved": 5,
-    "wa": 2
+    "solved": 7,
+    "wa": 3
   },
   {
     "id": 604,
@@ -6888,11 +6917,11 @@
     "tags": [
       "逆向"
     ],
-    "point": 407,
-    "likes": 0,
+    "point": 366,
+    "likes": 1,
     "level": 0.0,
-    "solved": 23,
-    "wa": 6
+    "solved": 36,
+    "wa": 9
   },
   {
     "id": 614,
@@ -7017,13 +7046,15 @@
     "title": "[广东强网杯 2021 团队组]泄露的秘密",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "流量分析",
+      "脚本编写",
       "MISC"
     ],
-    "point": 467,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 8,
-    "wa": 3
+    "point": 431,
+    "likes": 1,
+    "level": 0.6,
+    "solved": 17,
+    "wa": 10
   },
   {
     "id": 624,
@@ -7272,10 +7303,10 @@
     "tags": [
       "WEB"
     ],
-    "point": 419,
+    "point": 393,
     "likes": 0,
-    "level": 0.0,
-    "solved": 20,
+    "level": 0.6,
+    "solved": 27,
     "wa": 3
   },
   {
@@ -7394,13 +7425,15 @@
     "title": "[BJDCTF 2020]签个到?",
     "desc": "得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "压缩包分析",
+      "编码分析",
       "MISC"
     ],
-    "point": 164,
+    "point": 39,
     "likes": 0,
-    "level": 0.5,
-    "solved": 143,
-    "wa": 19
+    "level": 1.1,
+    "solved": 268,
+    "wa": 49
   },
   {
     "id": 694,
@@ -7530,11 +7563,11 @@
     "tags": [
       "逆向"
     ],
-    "point": 263,
+    "point": 163,
     "likes": 1,
-    "level": 0.5,
-    "solved": 76,
-    "wa": 61
+    "level": 0.1,
+    "solved": 144,
+    "wa": 189
   },
   {
     "id": 704,
@@ -7673,13 +7706,21 @@
     "title": "[BJDCTF 2020]easy_md5",
     "desc": "",
     "tags": [
-      "WEB"
+      "弱比较",
+      "数组绕过",
+      "PHP",
+      "关键字绕过",
+      "WEB",
+      "SQL注入",
+      "反序列化",
+      "POST注入",
+      "宽字节注入"
     ],
     "point": 1,
-    "likes": 13,
-    "level": 2.8,
-    "solved": 799,
-    "wa": 691
+    "likes": 17,
+    "level": 0.5,
+    "solved": 1184,
+    "wa": 950
   },
   {
     "id": 714,
@@ -7805,14 +7846,15 @@
     "title": "[安洵杯 2019]JustBase",
     "desc": "得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "Base家族",
       "Crypto",
       "Base64"
     ],
-    "point": 115,
+    "point": 4,
     "likes": 0,
-    "level": 2.0,
-    "solved": 192,
-    "wa": 109
+    "level": 1.6,
+    "solved": 303,
+    "wa": 158
   },
   {
     "id": 724,
@@ -7963,11 +8005,11 @@
       "WEB",
       "反序列化"
     ],
-    "point": 423,
+    "point": 393,
     "likes": 1,
-    "level": 0.0,
-    "solved": 19,
-    "wa": 14
+    "level": 2.3,
+    "solved": 27,
+    "wa": 27
   },
   {
     "id": 734,
@@ -8072,10 +8114,10 @@
       "汉明距离",
       "频率分析"
     ],
-    "point": 479,
+    "point": 475,
     "likes": 1,
-    "level": 4.5,
-    "solved": 5,
+    "level": 3.5,
+    "solved": 6,
     "wa": 0
   },
   {
@@ -8207,11 +8249,11 @@
     "tags": [
       "MISC"
     ],
-    "point": 467,
+    "point": 451,
     "likes": 0,
     "level": 0.0,
-    "solved": 8,
-    "wa": 4
+    "solved": 12,
+    "wa": 5
   },
   {
     "id": 754,
@@ -8593,11 +8635,11 @@
       "RSA",
       "连分数"
     ],
-    "point": 309,
+    "point": 251,
     "likes": 0,
-    "level": 4.5,
-    "solved": 55,
-    "wa": 22
+    "level": 0.8,
+    "solved": 82,
+    "wa": 27
   },
   {
     "id": 784,
@@ -8826,11 +8868,11 @@
       "ECC",
       "BSGS"
     ],
-    "point": 423,
+    "point": 375,
     "likes": 0,
-    "level": 0.0,
-    "solved": 19,
-    "wa": 27
+    "level": 0.5,
+    "solved": 33,
+    "wa": 46
   },
   {
     "id": 814,
@@ -8956,13 +8998,14 @@
     "title": "[广东强网杯 2021 个人决赛]签到题",
     "desc": "flag{welcome_to_qwb}\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。\n",
     "tags": [
+      "压缩包分析",
       "签到"
     ],
     "point": 1,
     "likes": 0,
-    "level": 0.9,
-    "solved": 850,
-    "wa": 640
+    "level": 0.2,
+    "solved": 1403,
+    "wa": 955
   },
   {
     "id": 824,
@@ -9200,13 +9243,15 @@
     "title": "[CISCN 2021初赛]running_pixel",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "图片隐写",
+      "GIF提取",
       "PNG"
     ],
-    "point": 403,
+    "point": 369,
     "likes": 15,
-    "level": 0.0,
-    "solved": 24,
-    "wa": 11
+    "level": 0.9,
+    "solved": 35,
+    "wa": 16
   },
   {
     "id": 844,
@@ -9553,11 +9598,11 @@
     "tags": [
       "RSA"
     ],
-    "point": 387,
-    "likes": 1,
+    "point": 354,
+    "likes": 2,
     "level": 0.0,
-    "solved": 29,
-    "wa": 4
+    "solved": 40,
+    "wa": 5
   },
   {
     "id": 874,
@@ -9692,16 +9737,17 @@
     "title": "[GFCTF 2021]Baby_Web",
     "desc": "",
     "tags": [
-      "WEB",
+      "变量覆盖",
       "PHP",
-      "CVE-2021-41773",
-      "变量覆盖"
+      "代码审计",
+      "WEB",
+      "CVE-2021-41773"
     ],
-    "point": 178,
-    "likes": 6,
-    "level": 4.5,
-    "solved": 129,
-    "wa": 40
+    "point": 144,
+    "likes": 8,
+    "level": 1.4,
+    "solved": 163,
+    "wa": 57
   },
   {
     "id": 884,
@@ -9877,10 +9923,10 @@
       "栅栏密码",
       "Base64"
     ],
-    "point": 471,
+    "point": 463,
     "likes": 0,
     "level": 0.0,
-    "solved": 7,
+    "solved": 9,
     "wa": 6
   },
   {
@@ -10026,10 +10072,10 @@
     "tags": [
       "off by null"
     ],
-    "point": 500,
+    "point": 495,
     "likes": 0,
     "level": 0.0,
-    "solved": 0,
+    "solved": 1,
     "wa": 0
   },
   {
@@ -10305,11 +10351,11 @@
       "浮点数",
       "IEEE754"
     ],
-    "point": 390,
+    "point": 357,
     "likes": 0,
     "level": 0.0,
-    "solved": 28,
-    "wa": 7
+    "solved": 39,
+    "wa": 8
   },
   {
     "id": 936,
@@ -10688,11 +10734,11 @@
       "PHP伪协议",
       "正则绕过"
     ],
-    "point": 281,
+    "point": 225,
     "likes": 1,
-    "level": 3.3,
-    "solved": 67,
-    "wa": 15
+    "level": 0.8,
+    "solved": 95,
+    "wa": 25
   },
   {
     "id": 965,
@@ -10823,10 +10869,10 @@
       "提权",
       "RCE"
     ],
-    "point": 423,
+    "point": 407,
     "likes": 0,
-    "level": 4.5,
-    "solved": 19,
+    "level": 2.5,
+    "solved": 23,
     "wa": 5
   },
   {
@@ -10942,11 +10988,11 @@
       "离散对数",
       "BSGS"
     ],
-    "point": 483,
+    "point": 479,
     "likes": 0,
     "level": 0.0,
-    "solved": 4,
-    "wa": 3
+    "solved": 5,
+    "wa": 4
   },
   {
     "id": 1064,
@@ -11212,10 +11258,10 @@
       "Crypto",
       "AES"
     ],
-    "point": 495,
+    "point": 491,
     "likes": 1,
-    "level": 4.5,
-    "solved": 1,
+    "level": 2.2,
+    "solved": 2,
     "wa": 1
   },
   {
@@ -11351,14 +11397,14 @@
     "title": "[GXYCTF 2019]BabySqli",
     "desc": "",
     "tags": [
-      "WEB",
-      "SQL注入"
+      "SQL注入",
+      "WEB"
     ],
-    "point": 195,
+    "point": 106,
     "likes": 2,
-    "level": 4.2,
-    "solved": 112,
-    "wa": 24
+    "level": 0.4,
+    "solved": 201,
+    "wa": 68
   },
   {
     "id": 1094,
@@ -11506,13 +11552,15 @@
     "title": "[GXYCTF 2019]luck_guy",
     "desc": "得到的flag使用NSSCTF{}格式提交",
     "tags": [
+      "C++",
+      "动态调试",
       "逆向"
     ],
-    "point": 393,
+    "point": 330,
     "likes": 0,
-    "level": 0.0,
-    "solved": 27,
-    "wa": 9
+    "level": 0.6,
+    "solved": 48,
+    "wa": 12
   },
   {
     "id": 1104,
@@ -11653,10 +11701,10 @@
       "逆向",
       "python"
     ],
-    "point": 483,
+    "point": 467,
     "likes": 0,
     "level": 0.0,
-    "solved": 4,
+    "solved": 8,
     "wa": 6
   },
   {
@@ -11919,10 +11967,10 @@
       "隐写",
       "Anorld"
     ],
-    "point": 467,
+    "point": 455,
     "likes": 0,
-    "level": 0.0,
-    "solved": 8,
+    "level": 1.7,
+    "solved": 11,
     "wa": 5
   },
   {
@@ -12296,10 +12344,10 @@
       "XXTEA",
       "RC4"
     ],
-    "point": 479,
+    "point": 475,
     "likes": 0,
     "level": 0.0,
-    "solved": 5,
+    "solved": 6,
     "wa": 2
   },
   {
@@ -12506,11 +12554,11 @@
     "tags": [
       "逆向"
     ],
-    "point": 479,
+    "point": 463,
     "likes": 0,
-    "level": 0.0,
-    "solved": 5,
-    "wa": 5
+    "level": 0.5,
+    "solved": 9,
+    "wa": 8
   },
   {
     "id": 1184,
@@ -12723,11 +12771,11 @@
       "WEB",
       "PHP"
     ],
-    "point": 483,
+    "point": 475,
     "likes": 1,
     "level": 0.0,
-    "solved": 4,
-    "wa": 0
+    "solved": 6,
+    "wa": 3
   },
   {
     "id": 1204,
@@ -12819,10 +12867,10 @@
       "RSA",
       "LLL"
     ],
-    "point": 459,
+    "point": 455,
     "likes": 0,
-    "level": 5.0,
-    "solved": 10,
+    "level": 2.5,
+    "solved": 11,
     "wa": 31
   },
   {
@@ -13078,13 +13126,12 @@
       "日志分析",
       "UDS诊断协议",
       "逆向",
-      "ARM",
-      "智能车协议"
+      "ARM"
     ],
-    "point": 495,
+    "point": 491,
     "likes": 0,
-    "level": 5.0,
-    "solved": 1,
+    "level": 2.5,
+    "solved": 2,
     "wa": 4
   },
   {
@@ -13201,11 +13248,11 @@
       "视频隐写",
       "Base64"
     ],
-    "point": 455,
+    "point": 427,
     "likes": 0,
-    "level": 0.0,
-    "solved": 11,
-    "wa": 2
+    "level": 0.1,
+    "solved": 18,
+    "wa": 3
   },
   {
     "id": 1244,
@@ -13472,11 +13519,11 @@
     "tags": [
       "安卓"
     ],
-    "point": 500,
+    "point": 495,
     "likes": 0,
     "level": 0.0,
-    "solved": 0,
-    "wa": 0
+    "solved": 1,
+    "wa": 5
   },
   {
     "id": 1264,
@@ -13596,10 +13643,10 @@
     "tags": [
       "逆向"
     ],
-    "point": 487,
+    "point": 479,
     "likes": 0,
     "level": 0.0,
-    "solved": 3,
+    "solved": 5,
     "wa": 2
   },
   {
@@ -13688,14 +13735,16 @@
     "title": "[HBNIS 2019]Doc是什么鬼",
     "desc": "得到的flag使用NSSCTF{}格式提交。",
     "tags": [
+      "文档隐写",
+      "word隐写",
       "MISC",
       "隐写"
     ],
-    "point": 467,
+    "point": 431,
     "likes": 0,
-    "level": 0.0,
-    "solved": 8,
-    "wa": 0
+    "level": 0.1,
+    "solved": 17,
+    "wa": 1
   },
   {
     "id": 1284,
@@ -13838,11 +13887,11 @@
       "Crypto",
       "键盘密码"
     ],
-    "point": 451,
+    "point": 415,
     "likes": 0,
     "level": 0.0,
-    "solved": 12,
-    "wa": 4
+    "solved": 21,
+    "wa": 11
   },
   {
     "id": 1294,
@@ -14152,11 +14201,11 @@
       "九宫格拼音",
       "隐写"
     ],
-    "point": 479,
+    "point": 471,
     "likes": 0,
-    "level": 2.5,
-    "solved": 5,
-    "wa": 4
+    "level": 1.0,
+    "solved": 7,
+    "wa": 5
   },
   {
     "id": 1314,
@@ -14717,10 +14766,10 @@
     "tags": [
       "sstv"
     ],
-    "point": 479,
+    "point": 471,
     "likes": 0,
     "level": 0.0,
-    "solved": 5,
+    "solved": 7,
     "wa": 1
   },
   {
@@ -14993,11 +15042,11 @@
       "Reverse",
       "xlsx"
     ],
-    "point": 500,
+    "point": 495,
     "likes": 0,
     "level": 0.0,
-    "solved": 0,
-    "wa": 0
+    "solved": 1,
+    "wa": 3
   },
   {
     "id": 1374,
@@ -15148,10 +15197,10 @@
       "QT",
       "base58"
     ],
-    "point": 463,
+    "point": 435,
     "likes": 0,
-    "level": 0.0,
-    "solved": 9,
+    "level": 0.2,
+    "solved": 16,
     "wa": 1
   },
   {
@@ -15299,11 +15348,11 @@
       "费马小定理",
       "二项式定理"
     ],
-    "point": 407,
+    "point": 378,
     "likes": 0,
-    "level": 1.2,
-    "solved": 23,
-    "wa": 1
+    "level": 0.3,
+    "solved": 32,
+    "wa": 2
   },
   {
     "id": 1394,
@@ -15447,11 +15496,11 @@
       "MISC",
       "流量分析"
     ],
-    "point": 443,
+    "point": 415,
     "likes": 0,
-    "level": 0.0,
-    "solved": 14,
-    "wa": 5
+    "level": 0.8,
+    "solved": 21,
+    "wa": 8
   },
   {
     "id": 1404,
@@ -16176,17 +16225,18 @@
     "title": "[TQLCTF 2022]simple_bypass",
     "desc": "",
     "tags": [
+      "无字母RCE",
+      "代码审计",
+      "RCE",
       "WEB",
       "PHP",
-      "LFI",
-      "RCE",
-      "无数字字母"
+      "无数RCE"
     ],
-    "point": 231,
-    "likes": 4,
-    "level": 4.6,
-    "solved": 92,
-    "wa": 72
+    "point": 183,
+    "likes": 6,
+    "level": 1.4,
+    "solved": 124,
+    "wa": 113
   },
   {
     "id": 1818,
@@ -16585,11 +16635,11 @@
     "tags": [
       "PWN"
     ],
-    "point": 431,
+    "point": 411,
     "likes": 0,
-    "level": 0.0,
-    "solved": 17,
-    "wa": 0
+    "level": 0.8,
+    "solved": 22,
+    "wa": 1
   },
   {
     "id": 1874,
@@ -16722,10 +16772,10 @@
       "伪随机数",
       "MT19937"
     ],
-    "point": 399,
-    "likes": 0,
+    "point": 378,
+    "likes": 1,
     "level": 0.0,
-    "solved": 25,
+    "solved": 32,
     "wa": 7
   },
   {
@@ -16866,14 +16916,15 @@
     "title": "[SUSCTF 2022]SpecialCurve3",
     "desc": "使用别人的曲线太不安全了，我来自己设计一条吧。\nUsing others’ curves is dangerous, so I design one on my own.\n得到的flag使用NSSCTF{}格式提交。",
     "tags": [
+      "ECC",
       "Crypto",
-      "ECC"
+      "PohligHellman"
     ],
-    "point": 479,
+    "point": 467,
     "likes": 0,
-    "level": 0.0,
-    "solved": 5,
-    "wa": 5
+    "level": 2.5,
+    "solved": 8,
+    "wa": 6
   },
   {
     "id": 1894,
@@ -16964,10 +17015,10 @@
       "MISC",
       "音频隐写"
     ],
-    "point": 483,
+    "point": 475,
     "likes": 0,
     "level": 0.0,
-    "solved": 4,
+    "solved": 6,
     "wa": 3
   },
   {
@@ -16994,15 +17045,13 @@
       "压缩包爆破",
       "伪加密",
       "NTFS",
-      "音频隐写",
-      "base64",
-      "摩斯密码"
+      "音频隐写"
     ],
-    "point": 207,
+    "point": 161,
     "likes": 0,
-    "level": 3.2,
-    "solved": 104,
-    "wa": 278
+    "level": 0.5,
+    "solved": 146,
+    "wa": 369
   },
   {
     "id": 1974,
@@ -17148,11 +17197,11 @@
       "盲文",
       "文件信息"
     ],
-    "point": 431,
+    "point": 419,
     "likes": 0,
-    "level": 0.5,
-    "solved": 17,
-    "wa": 3
+    "level": 0.2,
+    "solved": 20,
+    "wa": 7
   },
   {
     "id": 1984,
@@ -17436,14 +17485,15 @@
     "title": "[WUSTCTF 2020]getshell2",
     "desc": "Ubuntu 16.04.\n感谢Coldshield师傅授权。",
     "tags": [
-      "PWN",
-      "栈溢出"
+      "栈溢出",
+      "ret2syscall",
+      "PWN"
     ],
-    "point": 303,
-    "likes": 1,
-    "level": 0.0,
-    "solved": 57,
-    "wa": 0
+    "point": 229,
+    "likes": 2,
+    "level": 0.1,
+    "solved": 93,
+    "wa": 1
   },
   {
     "id": 2004,
@@ -17581,12 +17631,12 @@
     "title": "[D^3CTF 2022] D3MUG",
     "desc": "Welcome to... Show your talent and get All Perfect! flag is surrounded by NSSCTF{}",
     "tags": [
-      ""
+      "REVERSE"
     ],
-    "point": 500,
+    "point": 495,
     "likes": 0,
-    "level": 0.0,
-    "solved": 0,
+    "level": 4.0,
+    "solved": 1,
     "wa": 0
   },
   {
@@ -17692,15 +17742,15 @@
     "title": "[NISACTF 2022]midlevel",
     "desc": "",
     "tags": [
-      "WEB",
       "SSTI",
-      "Smarty"
+      "Smarty",
+      "WEB"
     ],
     "point": 1,
     "likes": 1,
-    "level": 1.5,
-    "solved": 355,
-    "wa": 23
+    "level": 0.5,
+    "solved": 546,
+    "wa": 29
   },
   {
     "id": 2025,
@@ -17783,10 +17833,10 @@
       "二项式定理",
       "Paillier"
     ],
-    "point": 423,
-    "likes": 0,
+    "point": 399,
+    "likes": 1,
     "level": 0.0,
-    "solved": 19,
+    "solved": 25,
     "wa": 0
   },
   {
@@ -18041,13 +18091,13 @@
       "Unicode",
       "Base",
       "Bubble",
-      "rot13"
+      "ROT"
     ],
-    "point": 153,
-    "likes": 0,
-    "level": 1.2,
-    "solved": 154,
-    "wa": 347
+    "point": 77,
+    "likes": 1,
+    "level": 0.3,
+    "solved": 230,
+    "wa": 498
   },
   {
     "id": 2054,
@@ -18499,10 +18549,10 @@
     "tags": [
       "PWN"
     ],
-    "point": 435,
-    "likes": 0,
-    "level": 2.0,
-    "solved": 16,
+    "point": 419,
+    "likes": 1,
+    "level": 1.2,
+    "solved": 20,
     "wa": 0
   },
   {
@@ -18648,10 +18698,10 @@
       "C++",
       "花指令"
     ],
-    "point": 459,
+    "point": 451,
     "likes": 0,
-    "level": 3.5,
-    "solved": 10,
+    "level": 2.2,
+    "solved": 12,
     "wa": 7
   },
   {
@@ -18791,11 +18841,11 @@
       "内存取证 ",
       " LSA解密"
     ],
-    "point": 277,
+    "point": 247,
     "likes": 1,
-    "level": 0.0,
-    "solved": 69,
-    "wa": 48
+    "level": 0.6,
+    "solved": 84,
+    "wa": 49
   },
   {
     "id": 2199,
@@ -19463,11 +19513,11 @@
       "MISC",
       "图片隐写"
     ],
-    "point": 491,
+    "point": 479,
     "likes": 0,
-    "level": 0.0,
-    "solved": 2,
-    "wa": 2
+    "level": 1.5,
+    "solved": 5,
+    "wa": 3
   },
   {
     "id": 2264,
@@ -19756,11 +19806,11 @@
       "CRYPTO",
       "Schmidt-Samoa"
     ],
-    "point": 475,
+    "point": 471,
     "likes": 0,
     "level": 0.0,
-    "solved": 6,
-    "wa": 10
+    "solved": 7,
+    "wa": 11
   },
   {
     "id": 2284,
@@ -20065,11 +20115,11 @@
       "REVERSE",
       "花指令"
     ],
-    "point": 154,
-    "likes": 1,
-    "level": 1.5,
-    "solved": 153,
-    "wa": 16
+    "point": 68,
+    "likes": 2,
+    "level": 0.4,
+    "solved": 239,
+    "wa": 32
   },
   {
     "id": 2314,
@@ -20152,15 +20202,15 @@
     "title": "[SUCTF 2018 招新赛]follow me",
     "desc": "follow me -Helen\n得到的flag使用NSSCTF{}格式提交。",
     "tags": [
-      "MISC",
       "流量分析",
+      "MISC",
       "HTTP协议"
     ],
-    "point": 415,
+    "point": 354,
     "likes": 0,
-    "level": 0.0,
-    "solved": 21,
-    "wa": 3
+    "level": 0.1,
+    "solved": 40,
+    "wa": 6
   },
   {
     "id": 2324,
@@ -20301,10 +20351,10 @@
       "PWN",
       "栈溢出"
     ],
-    "point": 451,
+    "point": 431,
     "likes": 0,
     "level": 0.0,
-    "solved": 12,
+    "solved": 17,
     "wa": 0
   },
   {
@@ -20456,11 +20506,11 @@
       "时间戳",
       "Rabbit"
     ],
-    "point": 483,
+    "point": 475,
     "likes": 0,
-    "level": 0.0,
-    "solved": 4,
-    "wa": 1
+    "level": 3.0,
+    "solved": 6,
+    "wa": 2
   },
   {
     "id": 2344,
@@ -20610,10 +20660,10 @@
       "nodeJs",
       "日志分析"
     ],
-    "point": 475,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 6,
+    "point": 459,
+    "likes": 1,
+    "level": 1.2,
+    "solved": 10,
     "wa": 1
   },
   {
@@ -20758,10 +20808,10 @@
     "tags": [
       "MISC"
     ],
-    "point": 487,
+    "point": 471,
     "likes": 0,
     "level": 0.0,
-    "solved": 3,
+    "solved": 7,
     "wa": 5
   },
   {
@@ -20981,10 +21031,10 @@
       "PWN",
       "格式化字符串"
     ],
-    "point": 463,
+    "point": 451,
     "likes": 0,
     "level": 0.0,
-    "solved": 9,
+    "solved": 12,
     "wa": 0
   },
   {
@@ -21246,14 +21296,15 @@
     "title": "[CISCN 2022 东北]crackme_Android",
     "desc": "得到的flag使用NSSCTF{}格式提交。",
     "tags": [
+      "安卓逆向",
       "MOBILE",
       "md5"
     ],
-    "point": 396,
+    "point": 312,
     "likes": 0,
-    "level": 0.5,
-    "solved": 26,
-    "wa": 8
+    "level": 0.8,
+    "solved": 54,
+    "wa": 17
   },
   {
     "id": 2404,
@@ -21396,11 +21447,11 @@
       "流量分析",
       "MySQL"
     ],
-    "point": 415,
+    "point": 390,
     "likes": 1,
-    "level": 0.0,
-    "solved": 21,
-    "wa": 7
+    "level": 0.4,
+    "solved": 28,
+    "wa": 8
   },
   {
     "id": 2414,
@@ -21691,11 +21742,11 @@
     "tags": [
       "REVERSE"
     ],
-    "point": 269,
+    "point": 207,
     "likes": 0,
-    "level": 0.7,
-    "solved": 73,
-    "wa": 47
+    "level": 0.2,
+    "solved": 104,
+    "wa": 64
   },
   {
     "id": 2434,
@@ -21831,11 +21882,11 @@
     "tags": [
       "手机取证"
     ],
-    "point": 378,
+    "point": 277,
     "likes": 0,
-    "level": 0.5,
-    "solved": 32,
-    "wa": 11
+    "level": 0.1,
+    "solved": 69,
+    "wa": 43
   },
   {
     "id": 2444,
@@ -21967,13 +22018,14 @@
     "title": "[蓝帽杯 2022 初赛]网站取证_3",
     "desc": "请提交数据库金额加密混淆使用的盐值。\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。\n得到的flag请使用NSSCTF{}形式提交",
     "tags": [
+      "电子取证",
       "网站取证"
     ],
-    "point": 336,
+    "point": 205,
     "likes": 0,
-    "level": 0.0,
-    "solved": 46,
-    "wa": 23
+    "level": 0.3,
+    "solved": 105,
+    "wa": 51
   },
   {
     "id": 2454,
@@ -22107,15 +22159,15 @@
     "title": "[OtterCTF 2018]Silly Rick",
     "desc": "Silly rick always forgets his email's password, so he uses a Stored Password Services online to store his password. He always copy and paste the password so he will not get it wrong. whats rick's email password?\n得到的答案使用NSSCTF{}格式提交。",
     "tags": [
-      "MISC",
       "内存取证",
+      "MISC",
       "剪贴板"
     ],
-    "point": 289,
+    "point": 203,
     "likes": 0,
-    "level": 2.0,
-    "solved": 63,
-    "wa": 9
+    "level": 0.3,
+    "solved": 106,
+    "wa": 19
   },
   {
     "id": 2464,
@@ -22233,11 +22285,11 @@
       "REVERSE",
       "反调试"
     ],
-    "point": 415,
-    "likes": 0,
-    "level": 2.2,
-    "solved": 21,
-    "wa": 14
+    "point": 393,
+    "likes": 1,
+    "level": 1.1,
+    "solved": 27,
+    "wa": 18
   },
   {
     "id": 2474,
@@ -22366,10 +22418,10 @@
       "ret2libc",
       "栈溢出"
     ],
-    "point": 372,
+    "point": 330,
     "likes": 0,
-    "level": 2.0,
-    "solved": 34,
+    "level": 0.1,
+    "solved": 48,
     "wa": 4
   },
   {
@@ -22468,16 +22520,17 @@
     "title": "[NSSRound#4 SWPU]1zweb(revenge)",
     "desc": "",
     "tags": [
+      "反序列化",
+      "Phar反序列化",
       "WEB",
       "文件上传",
-      "反序列化",
       "PHP伪协议"
     ],
-    "point": 351,
+    "point": 315,
     "likes": 0,
-    "level": 3.0,
-    "solved": 41,
-    "wa": 11
+    "level": 1.3,
+    "solved": 53,
+    "wa": 13
   },
   {
     "id": 2494,
@@ -22759,12 +22812,15 @@
     "tags": [
       "PWN",
       "off by null",
-      "free_hook"
+      "free_hook",
+      "OffByNull",
+      "unlink",
+      "UnsortedBin"
     ],
-    "point": 479,
+    "point": 471,
     "likes": 0,
-    "level": 5.0,
-    "solved": 5,
+    "level": 3.0,
+    "solved": 7,
     "wa": 0
   },
   {
@@ -22900,12 +22956,14 @@
     "title": "[强网杯 2022]devnull",
     "desc": "题目未经主办方及出题人授权，如有侵权请联系管理员删除",
     "tags": [
-      "PWN"
+      "PWN",
+      "shellcode",
+      "栈迁移"
     ],
-    "point": 483,
+    "point": 479,
     "likes": 0,
-    "level": 0.0,
-    "solved": 4,
+    "level": 5.0,
+    "solved": 5,
     "wa": 0
   },
   {
@@ -23041,11 +23099,11 @@
       "Python",
       "RCE"
     ],
-    "point": 339,
+    "point": 281,
     "likes": 0,
-    "level": 3.0,
-    "solved": 45,
-    "wa": 8
+    "level": 1.3,
+    "solved": 67,
+    "wa": 11
   },
   {
     "id": 2534,
@@ -23211,11 +23269,11 @@
       "ICMP",
       "流量分析"
     ],
-    "point": 491,
+    "point": 459,
     "likes": 0,
-    "level": 0.0,
-    "solved": 2,
-    "wa": 7
+    "level": 0.2,
+    "solved": 10,
+    "wa": 38
   },
   {
     "id": 2564,
@@ -23356,15 +23414,16 @@
     "title": "[羊城杯 2022]LRSA",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "格基规约",
+      "SVP",
       "CRYPTO",
-      "RSA",
-      "格基规约"
+      "RSA"
     ],
-    "point": 393,
-    "likes": 1,
-    "level": 2.5,
-    "solved": 27,
-    "wa": 4
+    "point": 348,
+    "likes": 3,
+    "level": 0.8,
+    "solved": 42,
+    "wa": 7
   },
   {
     "id": 2574,
@@ -23506,11 +23565,11 @@
       "ZIP",
       "文件格式"
     ],
-    "point": 407,
-    "likes": 1,
-    "level": 5.0,
-    "solved": 23,
-    "wa": 4
+    "point": 372,
+    "likes": 2,
+    "level": 1.8,
+    "solved": 34,
+    "wa": 6
   },
   {
     "id": 2584,
@@ -23645,14 +23704,16 @@
     "title": "[HUBUCTF 2022 新生赛]simple_RE",
     "desc": "熟悉又陌生的编码",
     "tags": [
-      "REVERSE",
-      "Base64"
+      "Base64",
+      "C",
+      "逆向技术",
+      "REVERSE"
     ],
-    "point": 176,
+    "point": 51,
     "likes": 0,
-    "level": 0.5,
-    "solved": 131,
-    "wa": 19
+    "level": 1.4,
+    "solved": 256,
+    "wa": 33
   },
   {
     "id": 2594,
@@ -23790,14 +23851,15 @@
     "title": "[HUBUCTF 2022 新生赛]ezsql",
     "desc": "好想知道admin的密码呜呜呜~",
     "tags": [
-      "WEB",
-      "SQL注入"
+      "Update注入",
+      "SQL注入",
+      "WEB"
     ],
-    "point": 267,
+    "point": 194,
     "likes": 1,
-    "level": 1.7,
-    "solved": 74,
-    "wa": 11
+    "level": 0.9,
+    "solved": 113,
+    "wa": 13
   },
   {
     "id": 2604,
@@ -24090,14 +24152,16 @@
     "title": "[SWPUCTF 2022 新生赛]Does your nc work？",
     "desc": "速来签到",
     "tags": [
+      "其他",
+      "栈溢出",
       "PWN",
       "Linux指令"
     ],
-    "point": 237,
+    "point": 88,
     "likes": 0,
-    "level": 0.0,
-    "solved": 89,
-    "wa": 1
+    "level": 1.0,
+    "solved": 219,
+    "wa": 5
   },
   {
     "id": 2634,
@@ -24245,11 +24309,11 @@
       "摩斯代码",
       "与佛论禅"
     ],
-    "point": 327,
+    "point": 235,
     "likes": 0,
-    "level": 0.0,
-    "solved": 49,
-    "wa": 26
+    "level": 0.1,
+    "solved": 90,
+    "wa": 70
   },
   {
     "id": 2644,
@@ -24389,17 +24453,17 @@
     "title": "[SWPUCTF 2022 新生赛]upx",
     "desc": "like zip?",
     "tags": [
+      "脱壳",
       "REVERSE",
       "反汇编",
       "XOR",
-      "UPX",
-      "脱壳"
+      "UPX"
     ],
-    "point": 315,
+    "point": 231,
     "likes": 0,
-    "level": 3.0,
-    "solved": 53,
-    "wa": 20
+    "level": 0.3,
+    "solved": 92,
+    "wa": 31
   },
   {
     "id": 2654,
@@ -24480,12 +24544,12 @@
     "title": "[SWPUCTF 2022 新生赛]FindanotherWay",
     "desc": "emmm...where can i jump to...",
     "tags": [
-      ""
+      "PWN"
     ],
-    "point": 439,
+    "point": 393,
     "likes": 0,
     "level": 0.0,
-    "solved": 15,
+    "solved": 27,
     "wa": 2
   },
   {
@@ -24580,11 +24644,11 @@
       "RSA",
       "整数分解"
     ],
-    "point": 435,
+    "point": 381,
     "likes": 0,
-    "level": 1.5,
-    "solved": 16,
-    "wa": 40
+    "level": 0.2,
+    "solved": 31,
+    "wa": 63
   },
   {
     "id": 2824,
@@ -24700,10 +24764,10 @@
       "RSA",
       "共模攻击"
     ],
-    "point": 487,
+    "point": 475,
     "likes": 0,
-    "level": 0.0,
-    "solved": 3,
+    "level": 1.2,
+    "solved": 6,
     "wa": 0
   },
   {
@@ -24843,14 +24907,15 @@
     "title": "[SWPUCTF 2022 新生赛]1z_unserialize",
     "desc": "是很简单的反序列化噢",
     "tags": [
-      "WEB",
-      "反序列化"
+      "反序列化",
+      "PHP",
+      "WEB"
     ],
-    "point": 184,
-    "likes": 0,
-    "level": 1.0,
-    "solved": 123,
-    "wa": 13
+    "point": 1,
+    "likes": 1,
+    "level": 1.3,
+    "solved": 319,
+    "wa": 49
   },
   {
     "id": 2884,
@@ -25035,15 +25100,17 @@
     "title": "[HNCTF 2022 Week1]贝斯是什么乐器啊？",
     "desc": "贝斯是什么？乐器？",
     "tags": [
+      "Base64",
+      "Python",
       "RE",
       "base64",
       "算法识别"
     ],
-    "point": 312,
+    "point": 175,
     "likes": 0,
-    "level": 0.0,
-    "solved": 54,
-    "wa": 8
+    "level": 0.2,
+    "solved": 132,
+    "wa": 12
   },
   {
     "id": 2904,
@@ -25185,15 +25252,15 @@
     "title": "[HNCTF 2022 Week1]python2 input(JAIL)",
     "desc": "Let's have a rest,Did u like the challenge of python2 but it only have an input function.\n\nCan u read the flag\n\nAuthor:crazyman",
     "tags": [
-      "MISC",
       "JAIL",
+      "MISC",
       "python2 input"
     ],
-    "point": 390,
+    "point": 354,
     "likes": 0,
-    "level": 0.5,
-    "solved": 28,
-    "wa": 0
+    "level": 0.6,
+    "solved": 40,
+    "wa": 1
   },
   {
     "id": 2914,
@@ -25341,11 +25408,11 @@
       "同余方程",
       "中国剩余定理"
     ],
-    "point": 471,
+    "point": 451,
     "likes": 0,
-    "level": 0.0,
-    "solved": 7,
-    "wa": 4
+    "level": 2.6,
+    "solved": 12,
+    "wa": 6
   },
   {
     "id": 2924,
@@ -25486,14 +25553,15 @@
     "title": "[HNCTF 2022 Week1]safe_shellcode",
     "desc": "可见字符shellcode\n\n\n\n",
     "tags": [
+      "shellcode",
       "PWN",
       "可见字符shellcode"
     ],
-    "point": 336,
+    "point": 243,
     "likes": 0,
-    "level": 0.0,
-    "solved": 46,
-    "wa": 2
+    "level": 0.5,
+    "solved": 86,
+    "wa": 3
   },
   {
     "id": 2934,
@@ -25541,14 +25609,15 @@
     "title": "[HNCTF 2022 Week1]Challenge__rce",
     "desc": "hint:灵感来源于ctfshow吃瓜杯Y4大佬的题",
     "tags": [
+      "无字母RCE",
       "Web",
       "rce"
     ],
-    "point": 351,
+    "point": 267,
     "likes": 0,
-    "level": 0.0,
-    "solved": 41,
-    "wa": 13
+    "level": 0.4,
+    "solved": 74,
+    "wa": 19
   },
   {
     "id": 2944,
@@ -25688,14 +25757,17 @@
     "title": "[HNCTF 2022 WEEK2]ez_SSTI",
     "desc": "\n",
     "tags": [
-      "WEB",
-      "SSTI"
+      "Python",
+      "SSTI",
+      "Flask",
+      "Jinja2",
+      "WEB"
     ],
-    "point": 184,
+    "point": 48,
     "likes": 0,
-    "level": 1.5,
-    "solved": 123,
-    "wa": 34
+    "level": 0.5,
+    "solved": 259,
+    "wa": 69
   },
   {
     "id": 2954,
@@ -25838,10 +25910,10 @@
       "PWN",
       "ret2csu"
     ],
-    "point": 396,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 26,
+    "point": 369,
+    "likes": 1,
+    "level": 1.4,
+    "solved": 35,
     "wa": 0
   },
   {
@@ -25982,11 +26054,11 @@
       "MISC",
       "二维码"
     ],
-    "point": 459,
+    "point": 423,
     "likes": 0,
-    "level": 4.5,
-    "solved": 10,
-    "wa": 3
+    "level": 0.7,
+    "solved": 19,
+    "wa": 15
   },
   {
     "id": 2974,
@@ -26125,14 +26197,14 @@
     "title": "[HNCTF 2022 WEEK2]calc_jail_beginner_level5(JAIL)",
     "desc": "level5 is so easy challenge \n\nLet's have nice idea to leak my flag\n\nAuthor:crazyman",
     "tags": [
+      "JAIL",
       "MISC",
-      "RCE",
-      "JAIL"
+      "RCE"
     ],
-    "point": 423,
+    "point": 372,
     "likes": 0,
-    "level": 0.0,
-    "solved": 19,
+    "level": 0.6,
+    "solved": 34,
     "wa": 1
   },
   {
@@ -26269,10 +26341,10 @@
       "CRYPTO",
       "二次同余方程"
     ],
-    "point": 475,
+    "point": 463,
     "likes": 0,
-    "level": 0.0,
-    "solved": 6,
+    "level": 5.0,
+    "solved": 9,
     "wa": 2
   },
   {
@@ -26407,15 +26479,15 @@
     "title": "[NSSRound#6 Team]check(V1)",
     "desc": "If I am not enough go get the chop.",
     "tags": [
-      "WEB",
       "目录穿越",
+      "WEB",
       "Python",
       "RCE"
     ],
-    "point": 396,
+    "point": 375,
     "likes": 0,
-    "level": 3.0,
-    "solved": 26,
+    "level": 0.9,
+    "solved": 33,
     "wa": 9
   },
   {
@@ -26569,10 +26641,10 @@
       "rsa broadcast",
       "PKCS1_OAEP填充"
     ],
-    "point": 479,
+    "point": 467,
     "likes": 0,
-    "level": 0.0,
-    "solved": 5,
+    "level": 1.7,
+    "solved": 8,
     "wa": 2
   },
   {
@@ -26710,11 +26782,11 @@
       "PWN",
       "stack smash"
     ],
-    "point": 459,
+    "point": 431,
     "likes": 0,
     "level": 0.0,
-    "solved": 10,
-    "wa": 1
+    "solved": 17,
+    "wa": 4
   },
   {
     "id": 3024,
@@ -26853,11 +26925,11 @@
       "dll",
       "upx"
     ],
-    "point": 471,
+    "point": 419,
     "likes": 0,
-    "level": 0.0,
-    "solved": 7,
-    "wa": 11
+    "level": 0.3,
+    "solved": 20,
+    "wa": 15
   },
   {
     "id": 3034,
@@ -27045,14 +27117,17 @@
     "title": "[UUCTF 2022 新生赛]websign",
     "desc": "听说真正的ikun都会这道题",
     "tags": [
-      "WEB",
-      "签到"
+      "源码泄漏",
+      "信息收集",
+      "前端绕过",
+      "沙盒逃逸",
+      "WEB"
     ],
-    "point": 22,
-    "likes": 0,
-    "level": 1.1,
-    "solved": 285,
-    "wa": 25
+    "point": 1,
+    "likes": 1,
+    "level": 1.9,
+    "solved": 697,
+    "wa": 81
   },
   {
     "id": 3054,
@@ -27188,11 +27263,11 @@
     "tags": [
       "MISC"
     ],
-    "point": 459,
+    "point": 423,
     "likes": 0,
-    "level": 0.0,
-    "solved": 10,
-    "wa": 27
+    "level": 0.4,
+    "solved": 19,
+    "wa": 36
   },
   {
     "id": 3064,
@@ -27322,10 +27397,10 @@
       "MISC",
       "JAIL"
     ],
-    "point": 475,
+    "point": 447,
     "likes": 0,
-    "level": 0.0,
-    "solved": 6,
+    "level": 0.4,
+    "solved": 13,
     "wa": 0
   },
   {
@@ -27463,13 +27538,17 @@
     "title": "[SWPUCTF 2022 新生赛]funny_php",
     "desc": "无",
     "tags": [
-      ""
+      "弱比较",
+      "正则绕过",
+      "数组绕过",
+      "PHP",
+      "WEB"
     ],
-    "point": 271,
-    "likes": 0,
-    "level": 3.0,
-    "solved": 72,
-    "wa": 16
+    "point": 128,
+    "likes": 1,
+    "level": 1.7,
+    "solved": 179,
+    "wa": 26
   },
   {
     "id": 3084,
@@ -27701,10 +27780,10 @@
       "PWN",
       "fmt"
     ],
-    "point": 487,
-    "likes": 0,
+    "point": 479,
+    "likes": 1,
     "level": 0.0,
-    "solved": 3,
+    "solved": 5,
     "wa": 0
   },
   {
@@ -27850,10 +27929,10 @@
       "LSB隐写",
       "base32"
     ],
-    "point": 455,
+    "point": 407,
     "likes": 0,
     "level": 0.0,
-    "solved": 11,
+    "solved": 23,
     "wa": 0
   },
   {
@@ -28258,14 +28337,15 @@
     "title": "[NUSTCTF 2022 新生赛]Ezjava1",
     "desc": "你能获取flag{1}吗\nflag以NSSCTF{}形式提交",
     "tags": [
+      "Java",
       "WEB",
       "java"
     ],
-    "point": 459,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 10,
-    "wa": 11
+    "point": 357,
+    "likes": 1,
+    "level": 1.4,
+    "solved": 39,
+    "wa": 37
   },
   {
     "id": 3154,
@@ -28387,11 +28467,11 @@
     "tags": [
       "MISC"
     ],
-    "point": 475,
+    "point": 431,
     "likes": 0,
     "level": 0.0,
-    "solved": 6,
-    "wa": 0
+    "solved": 17,
+    "wa": 2
   },
   {
     "id": 3164,
@@ -28625,10 +28705,10 @@
     "tags": [
       "CRYPTO"
     ],
-    "point": 491,
+    "point": 483,
     "likes": 0,
-    "level": 4.5,
-    "solved": 2,
+    "level": 2.3,
+    "solved": 4,
     "wa": 2
   },
   {
@@ -29035,10 +29115,10 @@
       "xtea",
       "base47"
     ],
-    "point": 495,
+    "point": 491,
     "likes": 0,
     "level": 0.0,
-    "solved": 1,
+    "solved": 2,
     "wa": 1
   },
   {
@@ -29330,7 +29410,7 @@
     ],
     "point": 463,
     "likes": 2,
-    "level": 0.0,
+    "level": 4.0,
     "solved": 9,
     "wa": 9
   },
@@ -29761,10 +29841,10 @@
       "块加密",
       "XOR"
     ],
-    "point": 471,
+    "point": 463,
     "likes": 0,
-    "level": 0.0,
-    "solved": 7,
+    "level": 1.5,
+    "solved": 9,
     "wa": 1
   },
   {
@@ -29907,11 +29987,11 @@
       "MISC",
       "二进制"
     ],
-    "point": 439,
+    "point": 403,
     "likes": 0,
     "level": 0.0,
-    "solved": 15,
-    "wa": 1
+    "solved": 24,
+    "wa": 5
   },
   {
     "id": 3304,
@@ -30047,14 +30127,16 @@
     "title": "[MoeCTF 2022]zip套娃",
     "desc": "zip套娃娃娃\nhttps://github.com/XDSEC/MoeCTF_2022\n得到的flag使用NSSCTF{}格式提交。",
     "tags": [
+      "伪加密",
+      "密码爆破",
       "MISC",
       "压缩包"
     ],
-    "point": 427,
+    "point": 360,
     "likes": 0,
-    "level": 0.0,
-    "solved": 18,
-    "wa": 3
+    "level": 0.3,
+    "solved": 38,
+    "wa": 5
   },
   {
     "id": 3314,
@@ -30192,14 +30274,15 @@
     "title": "[MoeCTF 2022]chicken_soup",
     "desc": "“欸嘿嘿嘿嘿~题来咯~欸，这这，这题都上了，你们怎么都不逆啊？”\n“云之君啊，大伙都不敢逆。DX神说，有人在这程序里下了毒，不能F5了。”\n“哎哟哟，你这人就喜欢开玩笑，哎呀，快逆吧，我不打扰了，我走了哈。”\n“你不能走。你要是没放毒，你就把这程序给我逆了。”\n“行，我逆，逆！哎呀，这F5，多是一件美事啊。啧啧啧，IDA一片飘红，肯定可以F5的。”\n“哎！tnnd为什么不逆！都不敢逆，都不敢F5是吧？既然大家都知道了，这戏我就不演了！这程序里的花指令，就是我放的！我就是要让你们都不能F5！”\nhttps://github.com/XDSEC/MoeCTF_2022\n得到的flag使用NSSCTF{}格式提交",
     "tags": [
-      "REVERSE",
-      "花指令"
+      "花指令",
+      "脱壳",
+      "REVERSE"
     ],
-    "point": 351,
-    "likes": 0,
-    "level": 1.2,
-    "solved": 41,
-    "wa": 10
+    "point": 233,
+    "likes": 4,
+    "level": 0.7,
+    "solved": 91,
+    "wa": 36
   },
   {
     "id": 3324,
@@ -30338,10 +30421,10 @@
     "tags": [
       "PWN"
     ],
-    "point": 439,
+    "point": 387,
     "likes": 0,
     "level": 0.0,
-    "solved": 15,
+    "solved": 29,
     "wa": 1
   },
   {
@@ -30612,15 +30695,15 @@
     "title": "[MoeCTF 2021]Augustine's Way",
     "desc": "你有了解过移位密码吗？\nnpfdug{f3tz_Bv9v5u1of!}\nhttps://github.com/XDSEC/moeCTF_2021\n得到的flag使用NSSCTF{}格式提交。",
     "tags": [
+      "凯撒密码",
       "CRYPTO",
-      "古典密码",
-      "凯撒密码"
+      "古典密码"
     ],
-    "point": 447,
+    "point": 345,
     "likes": 0,
-    "level": 0.0,
-    "solved": 13,
-    "wa": 4
+    "level": 0.1,
+    "solved": 43,
+    "wa": 32
   },
   {
     "id": 3354,
@@ -30763,11 +30846,11 @@
       "CRYPTO",
       "入门"
     ],
-    "point": 467,
+    "point": 381,
     "likes": 0,
     "level": 0.0,
-    "solved": 8,
-    "wa": 1
+    "solved": 31,
+    "wa": 4
   },
   {
     "id": 3364,
@@ -30912,11 +30995,11 @@
       "OSINT",
       "信息收集"
     ],
-    "point": 495,
+    "point": 483,
     "likes": 0,
-    "level": 0.0,
-    "solved": 1,
-    "wa": 0
+    "level": 0.3,
+    "solved": 4,
+    "wa": 6
   },
   {
     "id": 3374,
@@ -31056,11 +31139,11 @@
       "REVERSE",
       "入门"
     ],
-    "point": 455,
+    "point": 381,
     "likes": 0,
     "level": 0.0,
-    "solved": 11,
-    "wa": 2
+    "solved": 31,
+    "wa": 16
   },
   {
     "id": 3384,
@@ -31202,11 +31285,11 @@
       "花指令",
       "RC4"
     ],
-    "point": 491,
-    "likes": 0,
+    "point": 479,
+    "likes": 1,
     "level": 0.0,
-    "solved": 2,
-    "wa": 0
+    "solved": 5,
+    "wa": 1
   },
   {
     "id": 3394,
@@ -31345,13 +31428,13 @@
     "title": "[MoeCTF 2021]Int_overflow",
     "desc": "Ubuntu 16.04\n溢出是什么，是一杯水装不下吗 \nhttps://github.com/XDSEC/moeCTF_2021",
     "tags": [
-      "PWN",
-      "整数溢出"
+      "整数溢出",
+      "PWN"
     ],
-    "point": 483,
+    "point": 447,
     "likes": 0,
-    "level": 0.0,
-    "solved": 4,
+    "level": 0.1,
+    "solved": 13,
     "wa": 0
   },
   {
@@ -31649,11 +31732,11 @@
       "Webassembly",
       "动态调试"
     ],
-    "point": 475,
+    "point": 459,
     "likes": 0,
-    "level": 3.8,
-    "solved": 6,
-    "wa": 7
+    "level": 1.6,
+    "solved": 10,
+    "wa": 11
   },
   {
     "id": 3424,
@@ -31795,10 +31878,10 @@
     "tags": [
       "PWN"
     ],
-    "point": 500,
+    "point": 495,
     "likes": 0,
     "level": 0.0,
-    "solved": 0,
+    "solved": 1,
     "wa": 0
   },
   {
@@ -32208,13 +32291,15 @@
     "title": "[HGAME 2023 week1]RSA",
     "desc": "众所周知，RSA的安全性基于整数分解难题。\n\n得到的flag请使用NSSCTF{}格式提交。\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。",
     "tags": [
+      "素数分解",
+      "RSA",
       "CRYPTO"
     ],
-    "point": 387,
+    "point": 291,
     "likes": 0,
-    "level": 4.8,
-    "solved": 29,
-    "wa": 4
+    "level": 0.4,
+    "solved": 62,
+    "wa": 9
   },
   {
     "id": 3474,
@@ -32336,11 +32421,11 @@
       "RCE",
       "Trick"
     ],
-    "point": 164,
-    "likes": 1,
-    "level": 2.5,
-    "solved": 143,
-    "wa": 51
+    "point": 63,
+    "likes": 2,
+    "level": 0.2,
+    "solved": 244,
+    "wa": 96
   },
   {
     "id": 3484,
@@ -32475,11 +32560,11 @@
     "tags": [
       "IOT"
     ],
-    "point": 479,
+    "point": 447,
     "likes": 0,
-    "level": 3.5,
-    "solved": 5,
-    "wa": 2
+    "level": 1.4,
+    "solved": 13,
+    "wa": 6
   },
   {
     "id": 3494,
@@ -32578,13 +32663,14 @@
     "title": "[HGAME 2023 week2]VidarCamera",
     "desc": "兔兔最近在学习Android开发，这是他抄的相机程序\n\n得到的flag请使用NSSCTF{}格式提交。\n该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。",
     "tags": [
+      "TEA",
       "REVERSE"
     ],
-    "point": 463,
+    "point": 419,
     "likes": 0,
-    "level": 1.5,
-    "solved": 9,
-    "wa": 2
+    "level": 0.8,
+    "solved": 20,
+    "wa": 3
   },
   {
     "id": 3504,
@@ -32845,11 +32931,11 @@
     "tags": [
       "CRYPTO"
     ],
-    "point": 487,
+    "point": 455,
     "likes": 0,
-    "level": 0.0,
-    "solved": 3,
-    "wa": 0
+    "level": 0.9,
+    "solved": 11,
+    "wa": 1
   },
   {
     "id": 3524,
@@ -32924,15 +33010,18 @@
     "title": "[NSSRound#9 Basic]old fashion",
     "desc": "",
     "tags": [
+      "GOT劫持",
       "PWN",
       "free_hook",
       "malloc",
-      "栈溢出"
+      "栈溢出",
+      "栈",
+      "ret2text"
     ],
-    "point": 378,
+    "point": 351,
     "likes": 1,
-    "level": 0.0,
-    "solved": 32,
+    "level": 0.4,
+    "solved": 41,
     "wa": 0
   },
   {
@@ -33154,10 +33243,10 @@
       "DSA",
       "CopperSmith"
     ],
-    "point": 471,
+    "point": 451,
     "likes": 0,
-    "level": 5.0,
-    "solved": 7,
+    "level": 3.0,
+    "solved": 12,
     "wa": 0
   },
   {
@@ -33277,14 +33366,16 @@
     "title": "[HZNUCTF 2023 preliminary]easyAPK",
     "desc": "得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
+      "安卓逆向",
+      "JAVA",
       "REVERSE",
       "apk"
     ],
-    "point": 459,
+    "point": 396,
     "likes": 0,
-    "level": 0.0,
-    "solved": 10,
-    "wa": 5
+    "level": 0.3,
+    "solved": 26,
+    "wa": 11
   },
   {
     "id": 3594,
@@ -33482,15 +33573,17 @@
     "title": "[HZNUCTF 2023 preliminary]flask",
     "desc": "",
     "tags": [
-      "WEB",
       "Flask",
-      "SSTI"
+      "SSTI",
+      "Python",
+      "WEB",
+      "Jinja2"
     ],
-    "point": 271,
+    "point": 148,
     "likes": 0,
-    "level": 3.2,
-    "solved": 72,
-    "wa": 35
+    "level": 2.4,
+    "solved": 159,
+    "wa": 57
   },
   {
     "id": 3614,
@@ -33614,16 +33707,16 @@
     "title": "[NSSRound#11 Basic]ez_signin",
     "desc": "App1e_Tree makes a mistake...",
     "tags": [
+      "Rabin",
       "Crypto",
       "算术推导",
-      "RSA",
-      "Rabin"
+      "RSA"
     ],
-    "point": 419,
+    "point": 381,
     "likes": 0,
-    "level": 0.0,
-    "solved": 20,
-    "wa": 18
+    "level": 0.5,
+    "solved": 31,
+    "wa": 33
   },
   {
     "id": 3624,
@@ -33718,13 +33811,14 @@
     "title": "[GDOUCTF 2023]真男人下120层",
     "desc": "",
     "tags": [
+      "其他",
       "PWN"
     ],
-    "point": 339,
+    "point": 233,
     "likes": 0,
-    "level": 0.0,
-    "solved": 45,
-    "wa": 0
+    "level": 0.4,
+    "solved": 91,
+    "wa": 2
   },
   {
     "id": 3665,
@@ -33763,11 +33857,11 @@
       "lua",
       "MD5爆破"
     ],
-    "point": 419,
+    "point": 393,
     "likes": 0,
-    "level": 0.0,
-    "solved": 20,
-    "wa": 26
+    "level": 0.5,
+    "solved": 27,
+    "wa": 28
   },
   {
     "id": 3674,
@@ -34041,13 +34135,15 @@
     "title": "[GDOUCTF 2023]反方向的钟",
     "desc": "",
     "tags": [
-      "反序列化"
+      "反序列化",
+      "PHP伪协议",
+      "PHP"
     ],
-    "point": 178,
+    "point": 52,
     "likes": 1,
-    "level": 2.4,
-    "solved": 129,
-    "wa": 6
+    "level": 0.6,
+    "solved": 255,
+    "wa": 18
   },
   {
     "id": 3727,
@@ -34186,14 +34282,15 @@
     "title": "[HDCTF 2023]pwnner",
     "desc": "",
     "tags": [
-      "PWN",
+      "栈",
       "ret2text",
+      "PWN",
       "rand"
     ],
-    "point": 342,
+    "point": 205,
     "likes": 0,
-    "level": 0.0,
-    "solved": 44,
+    "level": 0.1,
+    "solved": 105,
     "wa": 9
   },
   {
@@ -34440,14 +34537,14 @@
     "title": "[HDCTF 2023]fake_game",
     "desc": "flag请以NSSCTF{}形式提交",
     "tags": [
-      "Reverse",
-      "Python"
+      "Python",
+      "Reverse"
     ],
-    "point": 384,
+    "point": 279,
     "likes": 0,
-    "level": 0.0,
-    "solved": 30,
-    "wa": 22
+    "level": 0.4,
+    "solved": 68,
+    "wa": 88
   },
   {
     "id": 3794,
@@ -34557,10 +34654,10 @@
       "WEB",
       "HTTP协议"
     ],
-    "point": 500,
+    "point": 483,
     "likes": 0,
-    "level": 0.0,
-    "solved": 0,
+    "level": 0.1,
+    "solved": 4,
     "wa": 0
   },
   {
@@ -34695,14 +34792,15 @@
     "title": "[强网杯 青少年赛道 2022]misc1",
     "desc": "你知道万能和弦是什么吗?\nflag以NSSCTF{}形式提交",
     "tags": [
-      "MISC",
-      "LSB"
+      "脚本编写",
+      "LSB",
+      "MISC"
     ],
-    "point": 483,
+    "point": 455,
     "likes": 0,
-    "level": 0.0,
-    "solved": 4,
-    "wa": 1
+    "level": 1.1,
+    "solved": 11,
+    "wa": 3
   },
   {
     "id": 3814,
@@ -34943,10 +35041,10 @@
       "WEB",
       "PHP"
     ],
-    "point": 483,
+    "point": 415,
     "likes": 0,
-    "level": 0.0,
-    "solved": 4,
+    "level": 0.5,
+    "solved": 21,
     "wa": 0
   },
   {
@@ -35082,13 +35180,17 @@
     "title": "启航",
     "desc": "从这里开始启航吧。\nNSSCTF{sail!}",
     "tags": [
+      "算法分析",
+      "XOR",
+      "Python",
+      "编码分析",
       "NSS"
     ],
-    "point": 187,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 120,
-    "wa": 3
+    "point": 1,
+    "likes": 1,
+    "level": 0.3,
+    "solved": 583,
+    "wa": 96
   },
   {
     "id": 3851,
@@ -35126,11 +35228,11 @@
       "Web",
       "RCE"
     ],
-    "point": 483,
+    "point": 427,
     "likes": 0,
     "level": 0.0,
-    "solved": 4,
-    "wa": 0
+    "solved": 18,
+    "wa": 1
   },
   {
     "id": 3854,
@@ -35231,16 +35333,16 @@
     "tags": [
       "JS分析",
       "源码泄漏",
-      "JSP",
       "信息收集",
+      "JSP",
       "代码审计",
       "其他"
     ],
     "point": 1,
     "likes": 0,
     "level": 0.3,
-    "solved": 779,
-    "wa": 367
+    "solved": 978,
+    "wa": 459
   },
   {
     "id": 3864,
@@ -35400,13 +35502,14 @@
       "JS分析",
       "信息收集",
       "前端绕过",
-      "Linux相关"
+      "Linux相关",
+      "WAF绕过"
     ],
     "point": 1,
     "likes": 0,
-    "level": 0.3,
-    "solved": 570,
-    "wa": 70
+    "level": 2.0,
+    "solved": 754,
+    "wa": 113
   },
   {
     "id": 3875,
@@ -35515,11 +35618,11 @@
       "图片修复",
       "图片宽高爆破"
     ],
-    "point": 103,
+    "point": 22,
     "likes": 0,
-    "level": 0.3,
-    "solved": 204,
-    "wa": 283
+    "level": 2.0,
+    "solved": 285,
+    "wa": 393
   },
   {
     "id": 3884,
@@ -35658,11 +35761,11 @@
       "现代密码",
       "factordb"
     ],
-    "point": 231,
+    "point": 186,
     "likes": 0,
-    "level": 0.1,
-    "solved": 92,
-    "wa": 14
+    "level": 1.1,
+    "solved": 121,
+    "wa": 20
   },
   {
     "id": 3894,
@@ -35815,10 +35918,10 @@
       "替换",
       "进制转换"
     ],
-    "point": 396,
+    "point": 375,
     "likes": 0,
-    "level": 0.0,
-    "solved": 26,
+    "level": 0.4,
+    "solved": 33,
     "wa": 7
   },
   {
@@ -36061,40 +36164,10 @@
       "d泄露攻击",
       "RSA"
     ],
-    "point": 243,
+    "point": 191,
     "likes": 0,
-    "level": 0.2,
-    "solved": 86,
-    "wa": 6
-  },
-  {
-    "id": 3973,
-    "title": "[LitCTF 2023]P_Leak",
-    "desc": "- 题目描述:很简单的泄露！！！\n- 出题人：dbuj7\nflag以NSSCTF{}形式提交",
-    "tags": [
-      "dp泄露",
-      "d泄露攻击",
-      "RSA"
-    ],
-    "point": 243,
-    "likes": 0,
-    "level": 0.2,
-    "solved": 86,
-    "wa": 6
-  },
-  {
-    "id": 3973,
-    "title": "[LitCTF 2023]P_Leak",
-    "desc": "- 题目描述:很简单的泄露！！！\n- 出题人：dbuj7\nflag以NSSCTF{}形式提交",
-    "tags": [
-      "dp泄露",
-      "d泄露攻击",
-      "RSA"
-    ],
-    "point": 243,
-    "likes": 0,
-    "level": 0.2,
-    "solved": 86,
+    "level": 0.1,
+    "solved": 116,
     "wa": 6
   },
   {
@@ -39569,9 +39642,9 @@
     "wa": 0
   },
   {
-    "id": 4291,
-    "title": "[ISG 2023]to_player.png",
-    "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。\n",
+    "id": 4275,
+    "title": "[WMCTF 2023]Fantastic terminal Rev",
+    "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
     "tags": [
       "MISC"
     ],
@@ -39608,19 +39681,6 @@
     "wa": 0
   },
   {
-    "id": 4275,
-    "title": "[WMCTF 2023]Fantastic terminal Rev",
-    "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。",
-    "tags": [
-      "MISC"
-    ],
-    "point": 500,
-    "likes": 0,
-    "level": 0.0,
-    "solved": 0,
-    "wa": 0
-  },
-  {
     "id": 4289,
     "title": "[ISG 2023]PellCurve",
     "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。\n",
@@ -39644,6 +39704,167 @@
     "likes": 0,
     "level": 0.0,
     "solved": 0,
+    "wa": 0
+  },
+  {
+    "id": 4291,
+    "title": "[ISG 2023]to_player.png",
+    "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。\n",
+    "tags": [
+      "MISC"
+    ],
+    "point": 500,
+    "likes": 0,
+    "level": 0.0,
+    "solved": 0,
+    "wa": 0
+  },
+  {
+    "id": 4303,
+    "title": "[NSSCTF 2nd]Time flows into the flow",
+    "desc": "时光如河，向前流",
+    "tags": [
+      "流量分析"
+    ],
+    "point": 500,
+    "likes": 0,
+    "level": 0.0,
+    "solved": 0,
+    "wa": 0
+  },
+  {
+    "id": 4298,
+    "title": "[NSSCTF 2nd]MyJs",
+    "desc": "",
+    "tags": [
+      "原型链污染",
+      "Ejs",
+      "NodeJS"
+    ],
+    "point": 467,
+    "likes": 0,
+    "level": 3.2,
+    "solved": 8,
+    "wa": 0
+  },
+  {
+    "id": 4306,
+    "title": "[NSSCTF 2nd]MyBox(revenge)",
+    "desc": "NO!NO!NO!",
+    "tags": [
+      "Apache",
+      "Python"
+    ],
+    "point": 455,
+    "likes": 0,
+    "level": 3.2,
+    "solved": 11,
+    "wa": 2
+  },
+  {
+    "id": 4305,
+    "title": "[NSSCTF 2nd]gift_in_qrcode(revenge)",
+    "desc": "神秘大奖，激情派送ing",
+    "tags": [
+      "脚本编写",
+      "二维码"
+    ],
+    "point": 471,
+    "likes": 0,
+    "level": 4.0,
+    "solved": 7,
+    "wa": 0
+  },
+  {
+    "id": 4291,
+    "title": "[ISG 2023]to_player.png",
+    "desc": "该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系管理员删除。得到的flag请使用NSSCTF{}格式提交。\n",
+    "tags": [
+      "MISC"
+    ],
+    "point": 495,
+    "likes": 0,
+    "level": 4.5,
+    "solved": 1,
+    "wa": 0
+  },
+  {
+    "id": 4297,
+    "title": "[NSSCTF 2nd]xenny的诱惑",
+    "desc": "xenny get lost in my maze ,try to save him",
+    "tags": [
+      "自动化路径求解"
+    ],
+    "point": 487,
+    "likes": 0,
+    "level": 1.8,
+    "solved": 3,
+    "wa": 0
+  },
+  {
+    "id": 4299,
+    "title": "[NSSCTF 2nd]MyBox",
+    "desc": "",
+    "tags": [
+      "PHP",
+      "Apache"
+    ],
+    "point": 360,
+    "likes": 0,
+    "level": 2.6,
+    "solved": 38,
+    "wa": 2
+  },
+  {
+    "id": 4300,
+    "title": "[NSSCTF 2nd]file_encrypt",
+    "desc": "一个简单的文件加密程序",
+    "tags": [
+      "算法分析"
+    ],
+    "point": 495,
+    "likes": 0,
+    "level": 0.0,
+    "solved": 1,
+    "wa": 0
+  },
+  {
+    "id": 4301,
+    "title": "[NSSCTF 2nd]Prompt Challenge",
+    "desc": "咕~二周年快乐~使用你的Prompt来获取隐藏起来的秘密吧~前往https://prompt.wd-ljt.com进行答题。\n前端不好用？访问/openapi.json获取所有api，\n还请各位Web大手子不要使用Web手段绕过，容易影响其他人的答题体验。\n本题有防作弊机制，请不要混用队友或其他人的UUID与SubmitId否则可能会导致token被禁用。\n提交时请将验证token提交到归属账号ID上。",
+    "tags": [
+      "MISC"
+    ],
+    "point": 500,
+    "likes": 0,
+    "level": 0.0,
+    "solved": 0,
+    "wa": 0
+  },
+  {
+    "id": 4302,
+    "title": "[NSSCTF 2nd]New Terminal",
+    "desc": "Terminal？咋启动呢",
+    "tags": [
+      "MISC"
+    ],
+    "point": 487,
+    "likes": 0,
+    "level": 0.0,
+    "solved": 3,
+    "wa": 0
+  },
+  {
+    "id": 4304,
+    "title": "[NSSCTF 2nd]Magic Docker",
+    "desc": "docker run randark/nssctf-round15-magic-docker",
+    "tags": [
+      "MISC"
+    ],
+    "point": 483,
+    "likes": 0,
+    "level": 0.9,
+    "solved": 4,
     "wa": 0
   }
 ]
